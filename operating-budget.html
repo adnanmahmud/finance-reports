@@ -174,17 +174,17 @@
     <script>
         var url = new URL(window.location.href);
 
-        //var fileUrl = url.searchParams.get("f");
-        //var yearColumnIndex = url.searchParams.get("t");
-        //var amountColumnIndex = url.searchParams.get("v");
-        //var filterColumnIndexes = url.searchParams.get("d").split(",");
-        //var view = url.searchParams.get("view");
+        var fileUrl = url.searchParams.get("f");
+        var yearColumnIndex = url.searchParams.get("t");
+        var amountColumnIndex = url.searchParams.get("v");
+        var filterColumnIndexes = url.searchParams.get("d").split(",");
+        var view = url.searchParams.get("view");
 
-	var fileUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4sFtuOwPBgh4E85sT9r3ae-QHwJksw24i6Tnz-xhWWYdex0rifWf4yPGMc_eFEkt5AUqaeMlCeGK3/pub?gid=0%26single=true%26output=csv";
-	var yearColumnIndex = 11;
-	var amountColumnIndex = "12";
-	var strFilter = "4,3,7,8,9,10";
-	var filterColumnIndexes = strFilter.split(",");
+	//var fileUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4sFtuOwPBgh4E85sT9r3ae-QHwJksw24i6Tnz-xhWWYdex0rifWf4yPGMc_eFEkt5AUqaeMlCeGK3/pub?gid=0%26single=true%26output=csv";
+	//var yearColumnIndex = 11;
+	//var amountColumnIndex = "12";
+	//var strFilter = "4,3,7,8,9,10";
+	//var filterColumnIndexes = strFilter.split(",");
 
         var yearColumn, amountColumn, filterColumns = [];
         var years = [];
@@ -680,7 +680,7 @@
         }
 
         //d3.csv("https://cors-anywhere.herokuapp.com/" + fileUrl).then(function (data) {
-d3.csv("https://gist.githubusercontent.com/adnanmahmud/0a40bc3338100f23a299604da26e3076/raw/450506442085931d3b78139844324491e0e94fb6/expenses-trial").then(function (data) {
+d3.csv(fileUrl).then(function (data) {
             yearColumn = data.columns[yearColumnIndex - 1];
             amountColumn = data.columns[amountColumnIndex - 1];
             filterColumnIndexes.forEach(function (d) {
