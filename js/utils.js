@@ -85,6 +85,7 @@ function initDetailedMonthly() {
         r = "ccffcc",
         a = "default",
         n = new URL(window.location.href);
+
     s = n.searchParams.get("f");
     u = n.searchParams.get("cma");
     f = n.searchParams.get("cmp");
@@ -97,6 +98,7 @@ function initDetailedMonthly() {
     i = n.searchParams.get("bclr");
     r = n.searchParams.get("hclr");
     a = n.searchParams.get("view");
+
     a == "bar" && (d3.select("#graphDraw").style("width", "100%"), d3.select("#graphDrawLegends").style("width", "100%"), d3.select("#graphNumber").style("display", "none"));
     d3.selectAll("#graphDrawLegends span").each(function(n, t) {
         t == 1 && d3.select(this).style("background", "#" + i)
