@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans" rel="stylesheet" />
+    <style>
+        #table {
+            width: 100%;
+            font-family: 'Nunito Sans', sans-serif;
+            position: relative;
+        }
+
+            #table table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+
+                #table table, #table table th, #table table td {
+                    border: 1px solid #ccc;
+                }
+
+                    #table table th {
+                        padding: 4px 10px;
+                        text-align: left;
+                    }
+
+                    #table table td {
+                        padding: 4px 10px;
+                    }
+
+                        #table table td > div {
+                            width: 50%;
+                            height: 22px;
+                            float: left;
+                            position: relative;
+                        }
+
+                            #table table td > div:nth-child(1) > span {
+                                position: absolute;
+                                left: 0;
+                            }
+
+                            #table table td > div:nth-child(1) > div {
+                                position: absolute;
+                                right: 0;
+                                top: 5px;
+                                height: 12px;
+                            }
+
+                            #table table td > div:nth-child(2) > span {
+                                position: absolute;
+                                right: 0;
+                            }
+
+                            #table table td > div:nth-child(2) > div {
+                                position: absolute;
+                                left: 0;
+                                top: 5px;
+                                height: 12px;
+                            }
+
+                    #table table tbody tr:hover {
+                        background: #e3e3e3;
+                    }
+
+        .tooltip {
+            position: absolute;
+            width: 250px;
+            pointer-events: none;
+            background: #fff;
+            font-size: 0.8em;
+            box-shadow: 2px 2px 3px #aaa;
+        }
+
+            .tooltip p {
+                margin: 0;
+                padding: 5px 10px;
+            }
+
+                .tooltip p:first-child, .tooltip p:last-child {
+                    font-weight: bold;
+                }
+
+                .tooltip p span {
+                    float: right;
+                }
+    </style>
+</head>
+<body>
+    <div id="table">
+        <table>
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script src="js/d3.v4.min.js"></script>
+    <script src="js/utils.js?1"></script>
+    <script>
+        initAnnualChange();
+    </script>
+</body>
+</html>
