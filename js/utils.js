@@ -11,6 +11,7 @@ function initAnnualChange() {
         u = "0f0",
         f = "f00",
         n = new URL(window.location.href);
+  
     o = n.searchParams.get("f");
     i = n.searchParams.get("c");
     t = n.searchParams.get("p");
@@ -22,8 +23,11 @@ function initAnnualChange() {
     r = n.searchParams.get("catval");
     u = n.searchParams.get("pdbclr");
     f = n.searchParams.get("ndbclr");
+
     d3.select("#table thead").html("<tr><th>" + c + "<\/th><th style='width:200px'>" + l + "<\/th><\/tr>");
-    d3.csv("https://cors-anywhere.herokuapp.com/" + o, function(n) {
+    d3.csv(o).then(function (n) {
+
+    //d3.csv("https://cors-anywhere.herokuapp.com/" + o, function(n) {
         var l, c, o, a;
         e > 0 && r != null && r != "" && (l = n.columns, n = n.filter(function(t) {
             return t[n.columns[e - 1]] == r
@@ -97,7 +101,8 @@ function initDetailedMonthly() {
     d3.selectAll("#graphDrawLegends span").each(function(n, t) {
         t == 1 && d3.select(this).style("background", "#" + i)
     });
-    d3.csv("https://cors-anywhere.herokuapp.com/" + s, function(n) {
+    d3.csv(s).then(function (n) {
+    //d3.csv("https://cors-anywhere.herokuapp.com/" + s, function(n) {
         var s = {
                 name: n[t - 1][n.columns[h - 1]],
                 cma: parseFloat(n[t - 1][n.columns[u - 1]].replace(/,/g, "")),
