@@ -1,8 +1,7 @@
-Category,Tax Type,November 2019 YTD Actual,November 2018 YTD Actual,Good Trend Direction,,,,
-Revenue,Property Tax,"20,977,131","20,055,439",High,,,,
-Revenue,Utility Tax,"21,196,077","20,433,424",High,,,,
-Revenue,Sales Tax,"16,032,848","16,614,087",High,,,,
-Expense,Public Safety,"28,463,076","29,415,941",Low,,,,
-Expense,Utilities,"21,622,561","22,821,945",Low,,,,
-Expense,Capital Improvements,"7,093,375","8,454,912",Low,,,,
-,,,,,,,,
+﻿Category,Tax Type,December 2019 YTD Actual,December 2018 YTD Actual,Good Trend Direction
+Revenue,Property Tax,"20,977,131","20,055,439",High
+Revenue,Utility Tax,"22,919,499","22,145,542",High
+Revenue,Sales Tax,"17,515,460","18,048,922",High
+Expense,Public Safety,"32,087,697","31,319,210",Low
+Expense,Utilities,"23,307,273","21,445,148",Low
+Expense,Capital Improvements,"8,632,015","9,448,956",Low
