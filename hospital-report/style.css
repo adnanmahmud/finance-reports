@@ -1,5 +1,6 @@
-.outer-container {
-  padding: 24px;
+.top-container,
+.bottom-container {
+  margin-top: 4em;
 }
 
 .bottom-container {
@@ -20,7 +21,7 @@ svg {
 }
 
 svg text {
-  font-size: 10px;
+  font-size: 12px;
 }
 
 #target-hospital-select {
@@ -38,7 +39,7 @@ svg text {
 }
 
 .chart {
-  margin: 24px 0;
+  margin: 4em 0;
 }
 
 /* Tooltip */

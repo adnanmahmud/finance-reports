@@ -1,4 +1,4 @@
-Name,ORGID ,FACID ,Cohort,DRG Name, DRG Discharges  
+Name,ORGID,FACID,Cohort,DRG Name,DRG Discharges
 Anna Jaques Hospital,1,2006,Community Hospital,Normal Neonate Birth,681
 Athol Hospital,2,2226,Community High Public Payer Hospital,COPD,97
 Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Normal Neonate Birth,370
