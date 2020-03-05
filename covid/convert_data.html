@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample D3 Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ <script src="https://d3js.org/d3.v5.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/covid_properties.js"></script>
+</head>
+<body>
+
+<script>
+
+    var promises = [
+        d3.csv("data/covid-confirmed-cases.csv"),
+        d3.csv("data/covid-deaths.csv"),
+        d3.csv("data/covid-recovered-cases.csv")
+    ]
+    //
+    Promise.all(promises).then(ready)
+
+    function ready(all_datasets) {
+
+        //load data
+        var my_data = [];
+        var columns = all_datasets[0].columns;
+        columns.splice(0,4);
+        //format and nest data
+        for(d in all_datasets[0]){
+            if(d !== "columns"){
+                var confirmed_cases = get_data(all_datasets[0][d]);
+                var deaths = get_data(all_datasets[1][d]);
+                var recovered = get_data(all_datasets[2][d]);
+                var area_data = [];
+                for(c in confirmed_cases){
+                    area_data.push({
+                        date: confirmed_cases[c].date,
+                        recovered:  recovered[c].count,
+                        deaths:  deaths[c].count,
+                        confirmed:  confirmed_cases[c].count
+                    });
+                }
+                my_data.push({
+                    "state": all_datasets[0][d]["Province/State"],
+                    "region":all_datasets[0][d]["Country/Region"],
+                    "Lat":all_datasets[0][d]["Lat"],
+                    "Long":all_datasets[0][d]["Long"],
+                    "max_confirmed": d3.max(confirmed_cases, m => m.count),
+                    "confirmed_cases": confirmed_cases,
+                    "deaths": deaths,
+                    "recovered": recovered,
+                    "area_data":area_data,
+                    "show_label": true
+                });
+            };
+        };
+
+        var mainland_china = my_data.filter(d => d.region === "Mainland China");
+        var hubei = mainland_china.find(d => d.state === "Hubei");
+        mainland_china = mainland_china.filter(d => d.state !== "Hubei");
+        mainland_china = reset_show_label(mainland_china);
+        var others = my_data.filter(d => d.region !== "Mainland China");
+        var us = others.filter(d => d.region === "US");
+        us = reset_show_label(us);
+        var non_us = others.filter(d => d.region !== "US");
+        var all_data = [
+            hubei,
+            get_summary(mainland_china,"Rest of China"),
+            get_summary(others, "Rest of World")
+        ]
+        non_us = reset_show_label(non_us);
+        non_us.push(get_summary(us,"US"));
+        all_data[2].children = non_us;
+        //draw chart
+        console.log(JSON.stringify(all_data));
+
+        function reset_show_label(my_dataset){
+            //only true for top 3 (or however many you specify in properties)
+            my_dataset = my_dataset.sort((a,b) => d3.descending(a.max_confirmed,b.max_confirmed))
+
+            for(i = 0 ; i < my_dataset.length ; i ++){
+                if(+i >= covid.top_label_count){
+                    my_dataset[i].show_label = false;
+                }
+            }
+            return my_dataset;
+        }
+        function get_summary(my_data,my_data_name){
+            //summary data for nest groups.
+            var my_dates = d3.set(my_data[0].confirmed_cases, d => d.date).values();
+            var confirmed_cases = [],deaths = [],recovered = [];
+            for(m in my_dates){
+                confirmed_cases.push({
+                       date: new Date(my_dates[m]),
+                       count:  d3.sum(my_data, d => d.confirmed_cases.find(f => d3.timeDay.count(f.date, new Date(my_dates[m])) === 0).count)
+                });
+                deaths.push({
+                    date: new Date(my_dates[m]),
+                    count:  d3.sum(my_data, d => d.deaths.find(f => d3.timeDay.count(f.date, new Date(my_dates[m])) === 0).count)
+                });
+                recovered.push({
+                    date: new Date(my_dates[m]),
+                    count:  d3.sum(my_data, d => d.recovered.find(f => d3.timeDay.count(f.date, new Date(my_dates[m])) === 0).count)
+                });
+            }
+            var area_data = [];
+            for(c in confirmed_cases){
+                area_data.push({
+                    date: confirmed_cases[c].date,
+                    recovered:  recovered[c].count,
+                    deaths:  deaths[c].count,
+                    confirmed:  confirmed_cases[c].count
+                });
+            }
+            return {
+                "state": "",
+                "region":my_data_name,
+                "Lat":null,
+                "Long":null,
+                "confirmed_cases": confirmed_cases,
+                "max_confirmed": d3.max(confirmed_cases, m => m.count),
+                "deaths": deaths,
+                "recovered": recovered,
+                "area_data": area_data,
+                "children": my_data
+            }
+        }
+
+
+        function get_data (my_data){
+            //standard data
+            var new_data = [];
+            for(c in columns){
+                new_data.push({
+                    date: convert_date(columns[c]),
+                    count: +my_data[columns[c]]
+                })
+            }
+            return new_data;
+        }
+        function convert_date(my_date) {
+            //convert date format
+            my_date = my_date.split("/");
+            new Date()
+            return new Date("20" + my_date[2], +my_date[0] - 1, my_date[1])
+        }
+    };
+
+
+</script>
+</body>
+</html>

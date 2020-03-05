@@ -1,0 +1,49 @@
+body{
+  font-family: Arial;
+  font-size: 12px;
+  margin:0;
+  padding: 0;
+}
+
+
+#chart_div{
+  width: 100vw;
+  height: 100vh;
+}
+
+.country_line, .mouseover_line{
+  fill: none;
+}
+
+.panel_label{
+  text-anchor: middle;
+  fill: white;
+  text-transform: capitalize;
+}
+
+.panel_result{
+  text-anchor: middle;
+}
+
+.axis line{
+  display: none;
+}
+
+
+.axis path{
+  stroke: #ACACAC;
+}
+
+.axis text {
+  font-family: Arial;
+  font-size: 12px;
+}
+
+.area_rect{
+  rx: 3;
+  ry:3;
+}
+
+.area_text{
+  text-transform: capitalize;
+}
