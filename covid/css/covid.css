@@ -1,11 +1,16 @@
 body{
-  font-family: Arial;
-  font-size: 12px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
   margin:0;
   padding: 0;
 }
 
-
+#search_country {
+  border: 2px solid #757575;
+  border-radius: 2px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
+}
 #chart_div{
   width: 100vw;
   height: 100vh;
@@ -35,8 +40,8 @@ body{
 }
 
 .axis text {
-  font-family: Arial;
-  font-size: 12px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
 }
 
 .area_rect{

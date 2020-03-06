@@ -14,7 +14,6 @@ function line_chart() {
         //set scales
         var x_scale_extent = d3.extent(my_data[0].deaths, d => new Date(d.date));
         var x_scale = d3.scaleTime().domain(x_scale_extent).range([0,width]);
-        var days = d3.timeDay.count(x_scale_extent[0],x_scale_extent[1]);
         var y_scale_max = d3.max(my_data, d => d3.max(d.confirmed_cases, m => m.count));
         var y_scale = d3.scaleLinear().domain([0,y_scale_max]).range([height-start_y,0]);
         var area_types = ["deaths","recovered","remainder"];
@@ -26,7 +25,7 @@ function line_chart() {
             svg.append("g").attr("class",'axis x_axis' + my_class);
             svg.append("g").attr("class",'axis y_axis' + my_class);
             svg.append("foreignObject").attr("class","search_item foreignobj").append("xhtml:body")
-                .attr("class","input_div" + my_class);
+                .attr("class","input_div input_div" + my_class);
 
             for(a in area_types){
                 svg.append("text").attr("class","area_legend area_text area_text" + area_types[a]);
@@ -34,21 +33,21 @@ function line_chart() {
             }
         };
 
+        //first area legend
         var area_x = 0;
         for(a in area_types){
-
             d3.select(".area_rect" + area_types[a])
                 .attr("visibility","hidden")
                 .attr("x",area_x)
                 .attr("y",start_y - 45)
-                .attr("width",20)
+                .attr("width",15)
                 .attr("height",10)
                 .attr("fill",covid.area_colours[area_types[a]]);
 
             d3.select(".area_text" + area_types[a])
                 .attr("visibility","hidden")
                 .attr("id","t_" + area_types[a])
-                .attr("x",area_x + 25)
+                .attr("x",area_x + 20)
                 .attr("y",start_y - 35)
                 .text(area_types[a]);
 
@@ -56,9 +55,9 @@ function line_chart() {
             area_x = my_text.right + 5;
         }
         d3.selectAll(".area_legend")
-            .attr("transform","translate(" + (width-area_x + (start_x*2)- 5) + ",0)")
+            .attr("transform","translate(" + (width-area_x + (start_x*3)-15) + ",0)")
 
-        //assign the above.
+        //then breadcrumb text
         d3.select(".breadcrumb_text" + my_class)
             .attr("x",start_x)
             .attr("y", start_y - 37)
@@ -93,6 +92,7 @@ function line_chart() {
                 }
             })
 
+        //then search input
         d3.select(".search_icon" + my_class)
             .attr("visibility","hidden")
             .attr("font-size","20px")
@@ -101,7 +101,7 @@ function line_chart() {
 
         d3.select(".input_div" + my_class)
             .attr("y",-40)
-            .html("<input type=text id=search_country />")
+            .html("<input type=text id=search_country placeholder='Type a Location' />")
             .on("input", function(d, i){
                 var my_val = d3.select("#search_country").node().value.toLowerCase();
                 if(my_val.length > 1){
@@ -137,13 +137,15 @@ function line_chart() {
             .attr("visibility","hidden")
             .attr("x",start_x + (width/2))
             .attr("y",start_y-53)
-            .attr("width",120)
-            .attr("height",20)
+            .attr("width",160)
+            .attr("height",28)
 
+        //then x axis.
         d3.select(".x_axis" + my_class)
             .call(d3.axisBottom(x_scale).tickSizeOuter(0).ticks(d3.timeMonday).tickFormat(d3.timeFormat("%b %d")))
             .attr("transform","translate(" + start_x + "," + (height) + ")");
 
+        //now define line and areas
         var line = d3.line()
             .defined(d => +d.count > 0)
             .x(d => x_scale(new Date(d.date)))
@@ -164,6 +166,7 @@ function line_chart() {
             .y0(d => y_scale(d.confirmed))
             .y1(d => y_scale(0));
 
+        //set previous data and draw line and areas
         covid.previous_data = my_data;
         covid.previous_type = "all";
         //draw initial line
@@ -205,19 +208,23 @@ function line_chart() {
                 .attr("stroke","transparent")
                 .attr("transform","translate(" + start_x + "," + start_y  + ")")
                 .on("mouseover",function(d,i,paths){
+                    //highlight if search isn't activated
                     if(covid.search_results === false){
                         highlight_line(d,i,paths);
                     }
                 })
                 .on("mouseout",function(d,i,paths){
+                    //unhighlight if search isn't activated
                     if(covid.search_results === false){
                         unhighlight_line(d,i,paths);
                     }
                 })
                 .on("click",function(d){
+                    //click action if search isn't activated
                     if(d.children !== undefined  && covid.search_results === false){
                         d3.selectAll(".search_item").attr("visibility","visible");
                         var breadcrumb =   d3.select(".breadcrumb_text" + my_class).text();
+                        //reset breadcrumb, previous data and draw line and area
                         covid.previous_data = line_data;
                         covid.previous_type = line_type;
                         d3.select(".breadcrumb_text" + my_class)
@@ -230,7 +237,7 @@ function line_chart() {
             my_group.select(".country_line")
                 .attr("id",d => "country_line" + get_id(d))
                 .attr("d",d => line(d.confirmed_cases))
-                .attr("stroke-width",d => d.children === undefined ? 0.5 : 2)
+                .attr("stroke-width",d => d.children === undefined ? 1 : 2)
                 .attr("stroke",get_line_stroke)
                 .attr("transform","translate(" + start_x + "," + start_y  + ")");
 
@@ -253,15 +260,11 @@ function line_chart() {
                     }
                 })
 
+            //raise us line..
             d3.select("#group_us").raise();
 
         }
 
-        function get_line_stroke(d){
-            return  d.children === undefined ? covid.line_colours.leaf :
-                (d.region === "Rest of China" ? covid.line_colours.zoomable2 : covid.line_colours.zoomable)
-
-        }
         function draw_area(area_data, line_type){
             
             //define line group
@@ -312,10 +315,17 @@ function line_chart() {
                 .attr("transform","translate(" + start_x + "," + start_y  + ")");
         }
 
+
+        function get_line_stroke(d){
+            return  d.children === undefined ? covid.line_colours.leaf :
+                (d.region === "Rest of China" ? covid.line_colours.zoomable2 : covid.line_colours.zoomable)
+
+        }
         function highlight_line(d,i,objects,my_stroke,match_count){
 
 
             if(my_stroke === undefined  || match_count === 1){
+                //only hide lines and show area if there is one or standard highlight
                 d3.select(objects[i]).attr("cursor","pointer");
 
                 d3.selectAll(".country_line")
@@ -341,8 +351,6 @@ function line_chart() {
                 draw_panels(d);
             }
 
-
-
             d3.select("#country_line" + get_id(d))
                 .transition()
                 .duration(1000)
@@ -350,17 +358,15 @@ function line_chart() {
                 .attr("visibility","visible")
                 .attr("stroke-width",4);
 
-
             d3.selectAll("#country_label" + get_id(d))
                 .transition()
                 .duration(500)
                 .attr("visibility","visible");
-
-
         }
 
         function get_id(d){
 
+            //id for each line and label - spaces and certain characters not allowed by browser removed
             return remove_characters(d.state) + "_" +
                 remove_characters(d.region);
 
@@ -373,6 +379,7 @@ function line_chart() {
                 return my_str;
             }
         }
+
         function unhighlight_line(d,i,objects){
             if(d !== undefined){
                 d3.select(objects[i]).attr("cursor","default");
@@ -380,7 +387,7 @@ function line_chart() {
 
             d3.selectAll(".country_line")
                 .attr("stroke",get_line_stroke)
-                .attr("stroke-width",d => d.children === undefined ? 0.5 : 2)
+                .attr("stroke-width",d => d.children === undefined ? 1 : 2)
                 .transition().duration(500)
                 .attr("visibility","visible");
 
@@ -404,18 +411,16 @@ function line_chart() {
             ]
 
             function get_newcase_value(d){
+
+                var days = d3.sum(d.confirmed_cases, s => +s.count > 0 ? 1 : 0);
                 var my_val = days/d3.max(d.confirmed_cases, s => s.count);
-                var my_format = d3.format(".1s");
-                if(my_val >= 1){
-                   return my_format(my_val) + " days";
+                var my_format = d3.format(".1f");
+                if(my_val < 0.04){
+                    return my_format(my_val * 24 * 60) + " minutes";
+                } else if (my_val < 1){
+                    return my_format(my_val * 24) + " hours";
                 } else {
-                    my_val = my_val*24;
-                    if(my_val >= 1){
-                        return my_format(my_val) + " hours";
-                    } else {
-                        my_val = my_val*60;
-                        return my_format(my_val) + " minutes";
-                    }
+                    return my_format(my_val) + " days";
                 }
 
             }
