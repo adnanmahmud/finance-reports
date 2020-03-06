@@ -412,7 +412,7 @@ function line_chart() {
                 {"id":0, "label": "total confirmed cases","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
                 {"id":1, "label": "total recovered cases","value":d3.max(d.recovered, m => m.count),"format":","},
                 {"id":2, "label": "total deaths","value":d3.max(d.deaths, m => m.count),"format":","},
-                {"id":3, "label": "new case every (last 7 days)","value":get_newcase_value(d),"format":"none"},
+                {"id":3, "label": "(last 7 days) new case every","value":get_newcase_value(d),"format":"none"},
                 {"id":4, "label": "recovery rate","value":d3.max(d.recovered, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"}
             ]
 

@@ -5,6 +5,18 @@ body{
   padding: 0;
 }
 
+.axis text {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+@media (max-width: 1000px) {
+  body { font-size: 12px;};
+}
+
+@media (min-width: 1000px) {
+  .axis text {font-size: 14px;}
+}
+
 #search_country {
   border: 1px solid #757575;
   border-radius: 2px;
@@ -13,8 +25,9 @@ body{
   width: 120px;
 }
 #chart_div{
-  width: 100vw;
+  min-width: 1000px;
   height: 100vh;
+
 }
 
 .country_line, .mouseover_line{
@@ -38,11 +51,6 @@ body{
 
 .axis path{
   stroke: #ACACAC;
-}
-
-.axis text {
-  font-family: 'Nunito Sans', sans-serif;
-  font-size: 14px;
 }
 
 .area_rect{
