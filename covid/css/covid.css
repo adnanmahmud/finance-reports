@@ -6,10 +6,11 @@ body{
 }
 
 #search_country {
-  border: 2px solid #757575;
+  border: 1px solid #757575;
   border-radius: 2px;
   font-family: 'Nunito Sans', sans-serif;
   font-size: 14px;
+  width: 120px;
 }
 #chart_div{
   width: 100vw;

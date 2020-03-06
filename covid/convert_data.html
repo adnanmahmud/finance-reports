@@ -39,6 +39,7 @@
                         confirmed:  confirmed_cases[c].count
                     });
                 }
+
                 my_data.push({
                     "state": all_datasets[0][d]["Province/State"],
                     "region":all_datasets[0][d]["Country/Region"],
@@ -68,7 +69,8 @@
             get_summary(others, "Rest of World")
         ]
         non_us = reset_show_label(non_us);
-        non_us.push(get_summary(us,"US"));
+        var gb_index = non_us.findIndex(d => d.region === "UK");
+        non_us.push(get_summary(us,"USA"));
         all_data[2].children = non_us;
         //draw chart
         console.log(JSON.stringify(all_data));

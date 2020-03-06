@@ -26,12 +26,18 @@ function line_chart() {
             svg.append("g").attr("class",'axis y_axis' + my_class);
             svg.append("foreignObject").attr("class","search_item foreignobj").append("xhtml:body")
                 .attr("class","input_div input_div" + my_class);
-
+            svg.append("text").attr("class","area_legend area_text explanation");
             for(a in area_types){
                 svg.append("text").attr("class","area_legend area_text area_text" + area_types[a]);
                 svg.append("rect").attr("class","area_legend area_rect area_rect" + area_types[a]);
             }
         };
+
+        d3.select(".explanation")
+            .attr("visibility","hidden")
+            .attr("x", - width)
+            .attr("y",height + (start_y*2)-30)
+            .text("");
 
         //first area legend
         var area_x = 0;
@@ -406,14 +412,16 @@ function line_chart() {
                 {"id":0, "label": "total confirmed cases","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
                 {"id":1, "label": "total recovered cases","value":d3.max(d.recovered, m => m.count),"format":","},
                 {"id":2, "label": "total deaths","value":d3.max(d.deaths, m => m.count),"format":","},
-                {"id":3, "label": "new case every","value":get_newcase_value(d),"format":"none"},
+                {"id":3, "label": "new case every (last 7 days)","value":get_newcase_value(d),"format":"none"},
                 {"id":4, "label": "recovery rate","value":d3.max(d.recovered, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"}
             ]
 
             function get_newcase_value(d){
+                var seven_days_ago = d3.timeDay.offset(x_scale.domain()[1],-7);
 
-                var days = d3.sum(d.confirmed_cases, s => +s.count > 0 ? 1 : 0);
-                var my_val = days/d3.max(d.confirmed_cases, s => s.count);
+                var seven_days_ago_count = d.confirmed_cases.find(f => String(new Date(f.date)) === String(seven_days_ago));
+                var total_cases = d3.max(d.confirmed_cases, s => +s.count);
+                var my_val = 7/(total_cases - seven_days_ago_count.count);
                 var my_format = d3.format(".1f");
                 if(my_val < 0.04){
                     return my_format(my_val * 24 * 60) + " minutes";
