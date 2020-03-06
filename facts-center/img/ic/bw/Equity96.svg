@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-Equity_96">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="Equity_96" data-name="Equity 96" clip-path="url(#clip-Equity_96)">
+    <rect width="96" height="96" fill="#fff"/>
+    <g id="Equity" transform="translate(0 10.347)">
+      <g id="Group_21" data-name="Group 21" transform="translate(0 0)">
+        <g id="exercises" transform="translate(46.506 0)">
+          <path id="Path_6" data-name="Path 6" d="M51.287,17.4a8.7,8.7,0,1,0-8.7-8.7A8.709,8.709,0,0,0,51.287,17.4Z" transform="translate(-20.584)" fill="#1d9db9"/>
+          <path id="Path_7" data-name="Path 7" d="M64.12,35.443l-6.884-9.59a4.287,4.287,0,0,0-3.195-1.639H17.589a2.411,2.411,0,0,0-2.409,2.409v1.806a2.411,2.411,0,0,0,2.409,2.409h19.13v43.79a4.019,4.019,0,0,0,4.014,4.014h.283a4.019,4.019,0,0,0,4.014-4.014V53.621h1.707V74.628a4.019,4.019,0,0,0,4.014,4.014h.283a4.019,4.019,0,0,0,4.014-4.014V49.105h.6a4.056,4.056,0,0,0,3.15-1.717L64.208,39A3.363,3.363,0,0,0,64.12,35.443Zm-9.071-2.682,2.982,4.279a1.662,1.662,0,0,1-.007,1.7l-2.975,4.2V32.762Z" transform="translate(-15.18 -4.774)" fill="#1d9db9"/>
+        </g>
+        <g id="exercises-2" data-name="exercises" transform="translate(0 0)">
+          <path id="Path_6-2" data-name="Path 6" d="M51.288,17.4a8.7,8.7,0,1,1,8.7-8.7A8.71,8.71,0,0,1,51.288,17.4Z" transform="translate(-32.497)" fill="#1d9db9"/>
+          <path id="Path_7-2" data-name="Path 7" d="M15.734,35.443l6.884-9.59a4.287,4.287,0,0,1,3.195-1.639H62.265a2.411,2.411,0,0,1,2.409,2.409v1.806a2.411,2.411,0,0,1-2.409,2.409H43.135v43.79a4.019,4.019,0,0,1-4.014,4.014h-.283a4.019,4.019,0,0,1-4.014-4.014V53.621H33.117V74.628A4.019,4.019,0,0,1,29.1,78.642H28.82a4.019,4.019,0,0,1-4.014-4.014V49.105h-.6a4.056,4.056,0,0,1-3.15-1.717L15.646,39A3.363,3.363,0,0,1,15.734,35.443Zm9.071-2.682-2.982,4.279a1.662,1.662,0,0,0,.007,1.7l2.975,4.2V32.762Z" transform="translate(-15.18 -4.774)" fill="#1d9db9"/>
+        </g>
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="33" height="10" transform="translate(60 64.653)" fill="#f15a93"/>
+      </g>
+    </g>
+  </g>
+</svg>

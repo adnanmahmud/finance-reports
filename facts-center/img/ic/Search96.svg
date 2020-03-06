@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#8F8F8F;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="96" height="96"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Search_96_" class="st0">
+		<rect class="st1" width="96" height="96"/>
+		<g id="Search" transform="translate(-118.141 -338.141)">
+			<path id="Icon_map-search" class="st2" d="M188.4,395.8c10.9-18,5.2-41.4-12.8-52.3c-18-10.9-41.4-5.2-52.3,12.8
+				s-5.2,41.4,12.8,52.3c12.1,7.4,27.3,7.4,39.5,0l25.8,25.8l12.8-12.8L188.4,395.8z M156,399.6c-13,0-23.5-10.5-23.5-23.5
+				c0-13,10.5-23.5,23.5-23.5c13,0,23.5,10.5,23.5,23.5C179.5,389.1,168.9,399.6,156,399.6z"/>
+		</g>
+	</g>
+</g>
+</svg>

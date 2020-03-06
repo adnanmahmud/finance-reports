@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-Report_Catalog_96">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="Report_Catalog_96" data-name="Report Catalog 96" clip-path="url(#clip-Report_Catalog_96)">
+    <rect width="96" height="96" fill="#fff"/>
+    <g id="Report_catalogue" data-name="Report catalogue" transform="translate(-128.604 -337.88)">
+      <g id="Group_18" data-name="Group 18" transform="translate(147.605 337.88)">
+        <path id="Subtraction_11" data-name="Subtraction 11" d="M58,74H0V66.838H3.833a1,1,0,0,0,1-1v-.387a1,1,0,0,0-1-1H0V59.676H3.833a1,1,0,0,0,1-1v-.387a1,1,0,0,0-1-1H0V52.515H3.833a1,1,0,0,0,1-1v-.387a1,1,0,0,0-1-1H0V45.354H3.833a1,1,0,0,0,1-1v-.387a1,1,0,0,0-1-1H0V38.193H3.833a1,1,0,0,0,1-1v-.388a1,1,0,0,0-1-1H0V31.032H3.833a1,1,0,0,0,1-1v-.387a1,1,0,0,0-1-1H0V23.871H3.833a1,1,0,0,0,1-1v-.387a1,1,0,0,0-1-1H0V16.709H3.833a1,1,0,0,0,1-1v-.387a1,1,0,0,0-1-1H0V9.548H3.833a1,1,0,0,0,1-1V8.161a1,1,0,0,0-1-1H0V0H58V74ZM16.916,14.323v7.161h29V14.323Z" transform="translate(-0.001)" fill="#f15a93"/>
+        <path id="Path_9" data-name="Path 9" d="M258.043,241.865c-2.894-.289-44.01-9.993-44.01-9.993h44.01Z" transform="translate(-213.558 -155.308)" fill="#269cb9"/>
+        <path id="Path_10" data-name="Path 10" d="M250.415,247.951c-2.915-1.683-36.268-18.832-36.268-18.832l36.268,8.972Z" transform="translate(-213.393 -151.951)" fill="#faed00"/>
+      </g>
+    </g>
+  </g>
+</svg>

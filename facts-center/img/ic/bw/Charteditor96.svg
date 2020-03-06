@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-Chart_editor_96">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="Chart_editor_96" data-name="Chart editor 96" clip-path="url(#clip-Chart_editor_96)">
+    <rect width="96" height="96" fill="#fff"/>
+    <g id="Chart_editor" data-name="Chart editor" transform="translate(0 0.231)">
+      <g id="Group_25" data-name="Group 25" transform="translate(0 0)">
+        <path id="Icon_awesome-chart-pie" data-name="Icon awesome-chart-pie" d="M93.139,47.161H51.264L79.152,75.048a2.832,2.832,0,0,0,3.916.12A42.264,42.264,0,0,0,95.973,50.311,2.829,2.829,0,0,0,93.139,47.161Zm-53.61,0V5.286a2.828,2.828,0,0,0-3.148-2.834A42.322,42.322,0,0,0,.025,45.814C.794,68.427,20.264,86.97,42.888,86.686a42.023,42.023,0,0,0,23.869-7.77,2.8,2.8,0,0,0,.277-4.249Z" transform="translate(0 8.079)" fill="#f04f8b"/>
+        <path id="Icon_material-mode-edit" data-name="Icon material-mode-edit" d="M4.5,39.218v9.136h9.136L40.58,21.409l-9.136-9.136ZM47.645,14.345a2.426,2.426,0,0,0,0-3.435l-5.7-5.7a2.426,2.426,0,0,0-3.435,0L34.051,9.667,43.187,18.8Z" transform="translate(47.642 -4.496)" fill="#f04f8b"/>
+        <path id="Icon_awesome-chart-pie-2" data-name="Icon awesome-chart-pie" d="M93.139,47.161H51.264L79.152,75.048a2.832,2.832,0,0,0,3.916.12A42.264,42.264,0,0,0,95.973,50.311,2.829,2.829,0,0,0,93.139,47.161Zm-53.61,0V5.286a2.828,2.828,0,0,0-3.148-2.834A42.322,42.322,0,0,0,.025,45.814C.794,68.427,20.264,86.97,42.888,86.686a42.023,42.023,0,0,0,23.869-7.77,2.8,2.8,0,0,0,.277-4.249Z" transform="translate(0 8.079)" fill="#269cb9"/>
+        <path id="Icon_material-mode-edit-2" data-name="Icon material-mode-edit" d="M4.5,39.218v9.136h9.136L40.58,21.409l-9.136-9.136ZM47.645,14.345a2.426,2.426,0,0,0,0-3.435l-5.7-5.7a2.426,2.426,0,0,0-3.435,0L34.051,9.667,43.187,18.8Z" transform="translate(47.642 -4.496)" fill="#f15a93"/>
+      </g>
+    </g>
+  </g>
+</svg>
