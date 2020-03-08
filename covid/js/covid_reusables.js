@@ -409,10 +409,10 @@ function line_chart() {
 
             var panel_width = (width - 40)/5;
             var panel_data = [
-                {"id":0, "label": "total confirmed cases","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
-                {"id":1, "label": "total recovered cases","value":d3.max(d.recovered, m => m.count),"format":","},
-                {"id":2, "label": "total deaths","value":d3.max(d.deaths, m => m.count),"format":","},
-                {"id":3, "label": "new case (last week)","value":get_newcase_value(d),"format":"none"},
+                {"id":0, "label": "confirmed cases","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
+                {"id":1, "label": "recovered cases","value":d3.max(d.recovered, m => m.count),"format":","},
+                {"id":2, "label": "deaths","value":d3.max(d.deaths, m => m.count),"format":","},
+                {"id":3, "label": "Last 7 days new cases","value":get_newcase_value(d),"format":"none"},
                 {"id":4, "label": "recovery rate","value":d3.max(d.recovered, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"}
             ]
 
