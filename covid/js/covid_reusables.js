@@ -67,13 +67,16 @@ function line_chart() {
             .attr("x",start_x)
             .attr("y",height + (start_y/2)+5)
             .text("Total since " + date_format(latest_date))
+	    .attr("font-weight",500)
             .attr("transform","translate(0,0)");
+
 
         d3.select(".panel_title_2")
             .attr("visibility","hidden")
             .attr("x",start_x)
             .attr("y",height + (start_y/2)+80)
             .text("Last 7 days (since " + date_format(d3.timeDay.offset(latest_date,-7)) + ")")
+	    .attr("font-weight",500)
             .attr("transform","translate(0,0)");
 
         //then breadcrumb text
@@ -420,13 +423,13 @@ function line_chart() {
 
             var panel_width = (width - 40)/5;
             var panel_data = [
-                {"id":0, "column":0, "row": 0, "label": "confirmed cases","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
-                {"id":1,  "column":1, "row": 0,"label": "recovered cases","value":d3.max(d.recovered, m => m.count),"format":","},
+                {"id":0, "column":0, "row": 0, "label": "confirmed","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
+                {"id":1,  "column":1, "row": 0,"label": "recovered","value":d3.max(d.recovered, m => m.count),"format":","},
                 {"id":2,  "column":2, "row": 0,"label": "deaths","value":d3.max(d.deaths, m => m.count),"format":","},
                 {"id":3,  "column":3, "row": 0,"label": "death rate","value":d3.max(d.deaths, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"},
                 {"id":4,  "column":4,"row": 0,"label": "recovery rate","value":d3.max(d.recovered, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"},
-                {"id":5,  "column":0,"row": 1,"label": "confirmed cases","value":get_seven_day_count(d),"format":","},
-                {"id":6,  "column":1,"row": 1,"label": "new case every","value":get_newcase_value(d),"format":"none"}
+                {"id":5,  "column":0,"row": 1,"label": "confirmed","value":get_seven_day_count(d),"format":","},
+                {"id":6,  "column":1,"row": 1,"label": "new case","value":get_newcase_value(d),"format":"none"}
             ]
 
             function get_newcase_value(d) {
