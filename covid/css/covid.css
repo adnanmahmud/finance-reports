@@ -61,6 +61,10 @@ body{
 
 .area_text{
   text-transform: capitalize;
+  font-size: 1.1em;
 }
 
+.area_text_small {
+  font-weight: bold;
+}
 
