@@ -25,7 +25,8 @@ body{
   width: 120px;
 }
 #chart_div{
-  min-width: 1000px;
+  min-width: 850px;
+  min-height: 600px;
   height: 100vh;
 
 }
@@ -61,3 +62,5 @@ body{
 .area_text{
   text-transform: capitalize;
 }
+
+

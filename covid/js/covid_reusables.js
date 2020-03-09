@@ -14,6 +14,8 @@ function line_chart() {
         //set scales
         var x_scale_extent = d3.extent(my_data[0].deaths, d => new Date(d.date));
         var x_scale = d3.scaleTime().domain(x_scale_extent).range([0,width]);
+        var date_format = d3.timeFormat("%B %d, %Y");
+        var latest_date = d3.max(my_data[0].confirmed_cases, d => new Date(d.date));
         var y_scale_max = d3.max(my_data, d => d3.max(d.confirmed_cases, m => m.count));
         var y_scale = d3.scaleLinear().domain([0,y_scale_max]).range([height-start_y,0]);
         var area_types = ["deaths","recovered","remainder"];
@@ -26,18 +28,15 @@ function line_chart() {
             svg.append("g").attr("class",'axis y_axis' + my_class);
             svg.append("foreignObject").attr("class","search_item foreignobj").append("xhtml:body")
                 .attr("class","input_div input_div" + my_class);
-            svg.append("text").attr("class","area_legend area_text explanation");
+            svg.append("text").attr("class","area_legend area_text_small panel_title_1");
+            svg.append("text").attr("class","area_legend area_text_small panel_title_2");
             for(a in area_types){
                 svg.append("text").attr("class","area_legend area_text area_text" + area_types[a]);
                 svg.append("rect").attr("class","area_legend area_rect area_rect" + area_types[a]);
             }
         };
 
-        d3.select(".explanation")
-            .attr("visibility","hidden")
-            .attr("x", - width)
-            .attr("y",height + (start_y*2)-30)
-            .text("");
+
 
         //first area legend
         var area_x = 0;
@@ -62,6 +61,20 @@ function line_chart() {
         }
         d3.selectAll(".area_legend")
             .attr("transform","translate(" + (width-area_x + (start_x*3)-15) + ",0)")
+
+        d3.select(".panel_title_1")
+            .attr("visibility","hidden")
+            .attr("x",start_x)
+            .attr("y",height + (start_y/2)+5)
+            .text("Total since " + date_format(latest_date))
+            .attr("transform","translate(0,0)");
+
+        d3.select(".panel_title_2")
+            .attr("visibility","hidden")
+            .attr("x",start_x)
+            .attr("y",height + (start_y/2)+80)
+            .text("Last 7 days (since " + date_format(d3.timeDay.offset(latest_date,-7)) + ")")
+            .attr("transform","translate(0,0)");
 
         //then breadcrumb text
         d3.select(".breadcrumb_text" + my_class)
@@ -404,24 +417,21 @@ function line_chart() {
 
         function draw_panels(d,my_index){
 
-            //on mouseover, resets panel data and draws..
-            d3.selectAll(".panel_group" + my_class);
 
             var panel_width = (width - 40)/5;
             var panel_data = [
-                {"id":0, "label": "confirmed cases","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
-                {"id":1, "label": "recovered cases","value":d3.max(d.recovered, m => m.count),"format":","},
-                {"id":2, "label": "deaths","value":d3.max(d.deaths, m => m.count),"format":","},
-                {"id":3, "label": "Last 7 days new cases","value":get_newcase_value(d),"format":"none"},
-                {"id":4, "label": "recovery rate","value":d3.max(d.recovered, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"}
+                {"id":0, "column":0, "row": 0, "label": "confirmed cases","value":d3.max(d.confirmed_cases, m => m.count), "format":","},
+                {"id":1,  "column":1, "row": 0,"label": "recovered cases","value":d3.max(d.recovered, m => m.count),"format":","},
+                {"id":2,  "column":2, "row": 0,"label": "deaths","value":d3.max(d.deaths, m => m.count),"format":","},
+                {"id":3,  "column":3, "row": 0,"label": "death rate","value":d3.max(d.deaths, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"},
+                {"id":4,  "column":4,"row": 0,"label": "recovery rate","value":d3.max(d.recovered, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"},
+                {"id":5,  "column":0,"row": 1,"label": "confirmed cases","value":get_seven_day_count(d),"format":","},
+                {"id":6,  "column":1,"row": 1,"label": "new case every","value":get_newcase_value(d),"format":"none"}
             ]
 
-            function get_newcase_value(d){
-                var seven_days_ago = d3.timeDay.offset(x_scale.domain()[1],-7);
-
-                var seven_days_ago_count = d.confirmed_cases.find(f => String(new Date(f.date)) === String(seven_days_ago));
-                var total_cases = d3.max(d.confirmed_cases, s => +s.count);
-                var my_val = 7/(total_cases - seven_days_ago_count.count);
+            function get_newcase_value(d) {
+                 var total_cases = d3.max(d.confirmed_cases, s => +s.count);
+                var my_val = 7/(total_cases - get_seven_day_count(d));
                 var my_format = d3.format(".1f");
                 if(my_val < 0.04){
                     return my_format(my_val * 24 * 60) + " minutes";
@@ -430,8 +440,14 @@ function line_chart() {
                 } else {
                     return my_format(my_val) + " days";
                 }
-
             }
+
+            function get_seven_day_count(d) {
+                var seven_days_ago = d3.timeDay.offset(x_scale.domain()[1],-7);
+                var my_results = d.confirmed_cases.find(f => String(new Date(f.date)) === String(seven_days_ago));
+                return my_results.count;
+            }
+
             var my_group = svg.selectAll(".panel_group" + my_class)
                 .data(panel_data, d => d.id + my_index);
             //exit remove
@@ -452,6 +468,7 @@ function line_chart() {
 
             d3.selectAll(".panel_item")
                 .attr("opacity","0")
+                .attr("transform",d => "translate(0," + (d.row*75) + ")")
                 .transition()
                 .delay(200)
                 .duration(1000)
@@ -459,26 +476,26 @@ function line_chart() {
 
             my_group.select(".background_rect")
                 .attr("fill",covid.panel_colours.background)
-                .attr("x", (d,i) => (panel_width+10) * (+i))
+                .attr("x", d => (panel_width+10) * d.column)
                 .attr("y", 10)
                 .attr("width",panel_width)
                 .attr("height",50);
 
             my_group.select(".label_rect")
                 .attr("fill",covid.panel_colours.label_background)
-                .attr("x", (d,i) => (panel_width+10) * (+i))
+                .attr("x", d => (panel_width+10) * d.column)
                 .attr("y", 10)
                 .attr("width",panel_width)
                 .attr("height",20);
 
             my_group.select(".panel_label")
                 .attr("fill",covid.panel_colours.value_text)
-                .attr("x", (d,i) => ((panel_width+10) * (+i)) + panel_width/2)
+                .attr("x", d => (panel_width+10) * d.column + (panel_width/2))
                 .attr("y", 25)
                 .text(d => d.label)
 
             my_group.select(".panel_result")
-                .attr("x", (d,i) => ((panel_width+10) * (+i)) + panel_width/2)
+                .attr("x", d => (panel_width+10) * d.column + (panel_width/2))
                 .attr("y", 50)
                 .text(d => d.format === "none" ? d.value : d3.format(d.format)(d.value))
 
