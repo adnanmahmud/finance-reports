@@ -9,21 +9,25 @@ body{
   font-family: 'Nunito Sans', sans-serif;
 }
 
+#search_country {
+  border: 1px solid #757575;
+  border-radius: 2px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 12px;
+  width: 120px;
+}
+
 @media (max-width: 1000px) {
   body { font-size: 12px;};
 }
 
 @media (min-width: 1000px) {
   .axis text {font-size: 14px;}
+  #search_country {font-size: 14px;}
+  .area_text {font-size: 14px;}
 }
 
-#search_country {
-  border: 1px solid #757575;
-  border-radius: 2px;
-  font-family: 'Nunito Sans', sans-serif;
-  font-size: 14px;
-  width: 120px;
-}
+
 #chart_div{
   min-width: 850px;
   min-height: 600px;
@@ -39,10 +43,12 @@ body{
   text-anchor: middle;
   fill: white;
   text-transform: capitalize;
+  font-size: 1.1em;
 }
 
 .panel_result{
   text-anchor: middle;
+  font-size: 1.1em;
 }
 
 .axis line{
@@ -61,10 +67,10 @@ body{
 
 .area_text{
   text-transform: capitalize;
-  font-size: 1.1em;
+  font-size: 12px;
 }
 
 .area_text_small {
   font-weight: bold;
+  font-size: 1.1em;
 }
-

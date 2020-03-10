@@ -66,7 +66,7 @@ function line_chart() {
             .attr("visibility","hidden")
             .attr("x",start_x)
             .attr("y",height + (start_y/2)+5)
-            .text("Total (updated " + date_format(latest_date) + ")")
+            .text("Total since " + date_format(latest_date))
             .attr("transform","translate(0,0)");
 
         d3.select(".panel_title_2")
@@ -445,7 +445,8 @@ function line_chart() {
 
             function get_seven_day_count(d) {
                 var seven_days_ago = d3.timeDay.offset(x_scale.domain()[1],-7);
-                var my_results = d.confirmed_cases.find(f => String(new Date(f.date)) === String(seven_days_ago));
+
+                var my_results = d.confirmed_cases.find(f => d3.timeDay.count(new Date(f.date),new Date(seven_days_ago)) === 0);
                 return my_results.count;
             }
 
