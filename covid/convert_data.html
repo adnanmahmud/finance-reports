@@ -55,12 +55,40 @@
             };
         };
 
-        var mainland_china = my_data.filter(d => d.region === "Mainland China");
+        var mainland_china = my_data.filter(d => d.region === "China");
         var hubei = mainland_china.find(d => d.state === "Hubei");
         mainland_china = mainland_china.filter(d => d.state !== "Hubei");
         mainland_china = reset_show_label(mainland_china);
-        var others = my_data.filter(d => d.region !== "Mainland China");
+        var others = my_data.filter(d => d.region !== "China");
         var us = others.filter(d => d.region === "US");
+        var dc_index = us.findIndex(d => d.state === "Washington, D.C.");
+        us[dc_index].state = "Washington, DC";
+        for(s in covid.states){
+            var filtered = us.filter(d => d.state.includes(s));
+            if(filtered.length > 0){
+                var filtered_rollup = get_summary(filtered,s);
+                var matching_state = us.find(d => d.state === covid.states[s]);
+                var switch_date = new Date(2020,2,10);
+                var datasets = ["confirmed_cases","deaths","recovered"];
+                for(d in datasets){
+                    var matching = matching_state[datasets[d]].filter(d => d3.timeDay.count(d.date,switch_date) <=0);
+                    var filtered = filtered_rollup[datasets[d]].filter(d => d3.timeDay.count(d.date,switch_date) > 0);
+                    matching_state[datasets[d]] = matching.concat(filtered);
+                    matching_state[datasets[d]] =  matching_state[datasets[d]].sort((a,b) => d3.ascending(new Date(a.date),new Date (b.date)))
+                }
+                var area_data = [];
+                for(c in matching_state.confirmed_cases){
+                    area_data.push({
+                        date: matching_state.confirmed_cases[c].date,
+                        recovered:  matching_state.recovered[c].count,
+                        deaths:  matching_state.deaths[c].count,
+                        confirmed:  matching_state.confirmed_cases[c].count
+                    });
+                }
+                matching_state.area_data = area_data;
+                us = us.filter(d => d.state.includes(s) === false);
+            }
+        }
         us = reset_show_label(us);
         var non_us = others.filter(d => d.region !== "US");
         var all_data = [
@@ -69,7 +97,6 @@
             get_summary(others, "Rest of World")
         ]
         non_us = reset_show_label(non_us);
-        var gb_index = non_us.findIndex(d => d.region === "UK");
         non_us.push(get_summary(us,"USA"));
         all_data[2].children = non_us;
         //draw chart

@@ -254,6 +254,7 @@ function line_chart() {
                 });
 
             my_group.select(".country_line")
+                .attr("visibility","visible")
                 .attr("id",d => "country_line" + get_id(d))
                 .attr("d",d => line(d.confirmed_cases))
                 .attr("stroke-width",d => d.children === undefined ? 1 : 2)
@@ -281,6 +282,7 @@ function line_chart() {
 
             //raise us line..
             d3.select("#group_us").raise();
+            unhighlight_line();
 
         }
 
@@ -395,6 +397,7 @@ function line_chart() {
                 my_str = my_str.replace(/,/g, '');
                 my_str = my_str.replace('(', '');
                 my_str = my_str.replace(')', '');
+                my_str = my_str.replace('*', '');
                 return my_str;
             }
         }
