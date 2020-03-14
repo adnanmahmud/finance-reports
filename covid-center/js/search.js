@@ -18,7 +18,7 @@
       }
         }).autocomplete( "instance" )._renderItem = function( ul, item ) {
       return $( "<li>" )
-        .append( "<div><span>" + item.label + "</span><br>" + item.value.substring(0, 100) + "</div>" )
+        .append( "<div class=\"dropdown-item\"><span>" + item.label + "</span><br>" + item.value.substring(0, 100) + "</div>" )
         .appendTo( ul );
     };
    });
