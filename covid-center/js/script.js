@@ -108,7 +108,7 @@ $.getJSON('topics-list.json', function (data) {
         $('.textmain').html($("#" + clickidt).html());
         clickid = '';
         clickidt = '';
-        $("#search").val(' ');
+        $("#search").val("");
     });
     
     

@@ -20,7 +20,7 @@
       }
         }).autocomplete( "instance" )._renderItem = function( ul, item ) {
       return $( "<li>" )
-        .append( "<div><span>" + item.label + "</span><br>" + item.value.substring(0, 50) + "</div>" )
+        .append( "<div><span>" + item.label + "</span><br>" + item.value.substring(0, 100) + "</div>" )
         .appendTo( ul );
     };
    });
