@@ -66,7 +66,7 @@ function line_chart() {
             .attr("visibility","hidden")
             .attr("x",start_x)
             .attr("y",height + (start_y/2)+5)
-            .text("Total since " + date_format(latest_date))
+            .text("Total till " + date_format(latest_date))
             .attr("transform","translate(0,0)");
 
         d3.select(".panel_title_2")
