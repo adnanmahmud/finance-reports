@@ -10,9 +10,8 @@
         $("#search").autocomplete({
             source: data,
             select: function(event, ui){
-                 $("#search").val("");
                  $(".textmain").html(ui.item.value);
-               
+                 $("#search").val(" ");               
                 
             },
             close: function(event, ui)  {
