@@ -26,5 +26,5 @@
    });
 
 $("#search").click(function () {
-    $("#search").val(' ');
+    $("#search").val("");
 });
