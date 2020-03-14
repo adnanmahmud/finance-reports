@@ -10,13 +10,11 @@
         $("#search").autocomplete({
             source: data,
             select: function(event, ui){
-/*
-                 $(".textmain").html(ui.item.value);
-                 $("#search").val(ui.item.label);               
-*/                
+                 $(".textmain").html(ui.item.value);                 
             },
             close: function(event, ui)  {
-                  $('#search').data().autocomplete.term = null;
+                  //$('#search').data().autocomplete.term = null;
+		$("#search").val(" ");
       }
         }).autocomplete( "instance" )._renderItem = function( ul, item ) {
       return $( "<li>" )
