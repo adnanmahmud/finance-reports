@@ -2,7 +2,7 @@
  {
    "Category": "About COVID",
    "Topic": "What is it?",
-   "Details": "<h3>What is COVID-19 / Coronavirus?</h3><p>There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, \"CO\" stands for \"corona\",\"VI\" for \"virus,\" and \"D\" for disease. Formerly, this disease was referred to as \"2019 novel coronavirus\" or \"2019-nCo\".</p><p><a href=\"https://www.cdc.gov/coronavirus/2019-ncov/faq.html\">View CDC information</a></p>"
+   "Details": "<h3>What is COVID-19 / Coronavirus?</h3><p>There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, \\\"CO\\\" stands for \\\"corona\\\",\\\"VI\\\" for \\\"virus,\\\" and \\\"D\\\" for disease. Formerly, this disease was referred to as \\\"2019 novel coronavirus\\\" or \\\"2019-nCo\\\".</p><p><a href=\"https://www.cdc.gov/coronavirus/2019-ncov/faq.html\">View CDC information</a></p>"
  },
  {
    "Category": "About COVID",
@@ -76,8 +76,8 @@
  },
  {
    "Category": "Social Distancing",
-   "Topic": "Activity ideas for children",
-   "Details": ""
+   "Topic": "Children at home",
+   "Details": "<h3>Engaging your children at home during coronavirus school closure</h3><p>Coronavirus has caused extended closures of schools. Having children at home might seem daunting. We have prepared a checklist of few items to help you to create a great experience for your children at your home.</p><ol><li>Create a daily schedule.</li><p>it's important to have set hours for school, meals, chores and other daily activities. Your chilren are used to a set schedule in school. So, having a schedule will give them a feeling of normalcy.</p><li>Provide a learning environment.</li><li>Embrace the difference.</li><li>Bribe them a little, if necessary.</li><li>Make it fun.</li><li>Take breaks.</li><li>Give yourself credit.</li></ol>"
  },
  {
    "Category": "Social Distancing",
@@ -101,12 +101,12 @@
  },
  {
    "Category": "Local Preparedness",
-   "Topic": "Hospital capacity report",
+   "Topic": "Healthcare capacity",
    "Details": ""
  },
  {
    "Category": "Local Preparedness",
-   "Topic": "Emergency numbers",
+   "Topic": "Useful contact information",
    "Details": ""
  },
  {
