@@ -46,6 +46,10 @@ form textarea{
 
 }
 
+.dropdown-item span{
+    color:#2a9d84;
+}
+
 #submit{
    width: 100%;
     border-radius: 5px;
@@ -113,9 +117,9 @@ form textarea{
 
 
 .tab-content {
-    font-size: 14px;
+    font-size: 16px;
     cursor: pointer;
-    border-left: 5px solid #b25eb6;
+    border-left: 5px solid #2a9d84;
     padding: 10px 0px;
     padding-left: 5px;
     margin:0px 20px;
@@ -142,7 +146,8 @@ form textarea{
 */
 span{color:#b25eb6}
 .activelink{
-    color:#b25eb6 !important;
+    color:#2a9d84 !important;
+    font-weight: 600;
 }
 .tab :checked ~ .tab-content {
     display: block;
