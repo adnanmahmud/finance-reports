@@ -1,41 +1,41 @@
 [
  {
-   "Category": "About COVID",
+   "Category": "About COVID-19",
    "Topic": "What is this virus",
-   "Details": "<h3>What is COVID-19 / Coronavirus?</h3><p>There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, \"CO\" stands for \"corona\", \"VI\" for \"virus,\" and \"D\" for \"disease\". Formerly, this disease was referred to as \"2019 novel coronavirus\" or \"2019-nCo\".</p><p><a href=\"https://www.cdc.gov/coronavirus/2019-ncov/faq.html\">View CDC information</a></p>"
+   "Details": "<h3>What is COVID-19 / Coronavirus?</h3><p>There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, \"CO\" stands for \"corona\", \"VI\" for \"virus,\" and \"D\" for \"disease\". Formerly, this disease was referred to as \"2019 novel coronavirus\" or \"2019-nCo\".</p><p><a href=\"https://www.cdc.gov/coronavirus/2019-ncov/faq.html\">View CDC information</a></p><div><chart id=\"local cases\"></div>"
  },
  {
-   "Category": "About COVID",
-   "Topic": "Coronavirus origins",
-   "Details": "<h3>Where it started</h3><p>Like MERS and SARS, COVID-19 closely resembles coronaviruses found in bats but not humans. Scientists believe that the bat virus had a change in its genes that permitted it to spread to humans, possibly via an intermediate carrier (snakes) in an animal market in Wuhan, China. Early on, it is difficult to know the exact source of the virus, how well it spreads from person to person, and how severe the infection is. The virus can be transmitted from person to person via droplets that come from the nose or mouth when\nwe cough or sneeze. Those droplets can directly enter the nose, mouth or eyes of a person standing close by, or they can be indirectly transmitted by hands and inanimate objects.</p>"
- },
- {
-   "Category": "About COVID",
-   "Topic": "How it spreads",
-   "Details": "<h3>How COVID-19  Spreads</h3><p>The virus is thought to spread mainly from <i>person-to-person</i>, especially those who are in close contact with one another (within about 6 feet). The virus spreads through respiratory droplets produced when an infected person coughs or sneezes. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. How easily a virus spreads from person-to-person can vary. Some viruses are highly contagious (spread easily), like measles, while other viruses do not spread as easily. Another factor is whether the spread is sustained, spreading continually without stopping.</p><p>People are thought to be most contagious when they are most symptomatic (the sickest). While some spread might be possible before people show symptoms, this is not thought to be the main way the virus spreads.</p><p>It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.</p><p>Community spread seems to be happening in some geographic areas. \"\"Community Spread\"\" means people have been infected with the virus in an area, including some who are not sure how or where they became infected.</p><p>More details <a href=\"\"https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html\"\" target=\"\"_blank\"\">here</a> from CDC.\"</p>"
- },
- {
-   "Category": "About COVID",
-   "Topic": "Where to get tested",
-   "Details": "<h3>Test locations in Quad Cities area</h3><p>Coronavirus test kits are now available at the following locations in the Quad Cities area:</p><p><a href=\"https://www.cdc.gov/coronavirus/2019-ncov/testing-in-us.html\">View CDC information for Testing in the U.S.</a></p>"
- },
- {
-   "Category": "About COVID",
+   "Category": "About COVID-19",
    "Topic": "What are the symptoms",
    "Details": "<h3>Symptoms of coronavirus</h3><p>Reported illnesses have ranged from mild symptoms to severe illness and death for confirmed coronavirus disease 2019 (COVID-19) cases. The following symptoms may appear 2-14 days after exposure*: Fever, Cough, Shortness of breath.  *This is based on what has been seen previously as the incubation period of MERS-CoV viruses.</p><p> <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html\">View CDC information</a></p>"
  },
  {
-   "Category": "About COVID",
+   "Category": "About COVID-19",
+   "Topic": "Coronavirus origins",
+   "Details": "<h3>Where it started</h3><p>Like MERS and SARS, COVID-19 closely resembles coronaviruses found in bats but not humans. Scientists believe that the bat virus had a change in its genes that permitted it to spread to humans, possibly via an intermediate carrier (snakes) in an animal market in Wuhan, China. Early on, it is difficult to know the exact source of the virus, how well it spreads from person to person, and how severe the infection is. The virus can be transmitted from person to person via droplets that come from the nose or mouth when we cough or sneeze. Those droplets can directly enter the nose, mouth or eyes of a person standing close by, or they can be indirectly transmitted by hands and inanimate objects.</p>"
+ },
+ {
+   "Category": "About COVID-19",
+   "Topic": "How it spreads",
+   "Details": "<h3>How COVID-19  Spreads</h3><p>The virus is thought to spread mainly from <i>person-to-person</i>, especially those who are in close contact with one another (within about 6 feet). The virus spreads through respiratory droplets produced when an infected person coughs or sneezes. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. How easily a virus spreads from person-to-person can vary. Some viruses are highly contagious (spread easily), like measles, while other viruses do not spread as easily. Another factor is whether the spread is sustained, spreading continually without stopping.</p><p>People are thought to be most contagious when they are most symptomatic (the sickest). While some spread might be possible before people show symptoms, this is not thought to be the main way the virus spreads.</p><p>It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.</p><p>Community spread seems to be happening in some geographic areas. \"\"Community Spread\"\" means people have been infected with the virus in an area, including some who are not sure how or where they became infected.</p><p>More details <a href=\"\"https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html\"\" target=\"\"_blank\"\">here</a> from CDC.\"</p>"
+ },
+ {
+   "Category": "About COVID-19",
+   "Topic": "Where to get tested",
+   "Details": "<h3>Test locations in {@location}</h3><p>Coronavirus test kits are now available at the following locations:</p><p><a href=\"https://www.cdc.gov/coronavirus/2019-ncov/testing-in-us.html\">View CDC information for Testing in the U.S.</a></p>"
+ },
+ {
+   "Category": "About COVID-19",
    "Topic": "Incubation/exposure period",
    "Details": "<h3>Incubation/Exposure period</h3><p>Symptoms may appear 2-14 days after exposure. This is based on what has been seen previously as the incubation period of MERS-CoV viruses.</p><p> <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html\">View CDC information</a></p>"
  },
  {
-   "Category": "About COVID",
+   "Category": "About COVID-19",
    "Topic": "Is there a vaccine",
    "Details": "<h3>Coronavirus vaccines are being researched</h3><p>While a vaccine is not yet available, researchers around the world are working hard to find a vaccine and bring it to the market as quickly as possible.</p>"
  },
  {
-   "Category": "About COVID",
+   "Category": "About COVID-19",
    "Topic": "Fight the stigma",
    "Details": "<h3>Fight the stigma</h3><p>Fear and anxiety about a disease can lead to social stigma toward people, places, or things.</p><p>Some groups of people who may be experiencing stigma because of COVID-19 include:</p><ul> <li>Persons of Asian descent</li> <li>People who have traveled</li> <li>Emergency responders or healthcare professionals</li></ul><p>How to counter stigma around COVID-19:</p><ul><li>Speak out against any negative statements directed towards a group of people.</li><li>Maintain privacy and confidentiality of anyone seeking healthcare or getting tested for COVID-19.</li><li>Raise awareness about COVID-19 without increasing fear.</li><li>Share accurate information about how the virus spreads.</li><li>Provide social and emotional support for people who are connected to the affected areas.</li></ul>"
  },
@@ -52,7 +52,7 @@
  {
    "Category": "If Sick",
    "Topic": "How to self-quarantine",
-   "Details": "<h3>Quick guide to Self-Quarantine</h3><p>Self-quarantine is when you feel fine, but you separate yourself from others because there?s a high chance you?ve been exposed to the disease.</p><p>The Centers for Disease Control and Prevention (CDC) recommends that you self-quarantine if you have a medium or high risk of having recently contracted the coronavirus.</p><p>CDC has identified these two scenarios as high risk:</p>\n<ul><li>If you recently traveled back from China?s Hubei Province.</li><li>If you live with, or are intimate with, someone who has been diagnosed with coronavirus and you have taken no steps to protect yourself.</li></ul><p>The medium risk scenarios are:</p><ul><li>Recent travel to Iran, Italy, South Korea, or other regions with sustained community transmission.</li><li>Close contact with someone with a laboratory confirmed case of COVID-19.</li><li>Living with someone with confirmed COVID-19 and taking some precautions.</li></ul><p><b>If you experienced these risks, experts recommend that you stay away from others for 14 days to see if any symptoms of the virus develop.</b></p>"
+   "Details": "<h3>Quick guide to Self-Quarantine</h3><p>Self-quarantine is when you feel fine, but you separate yourself from others because there's a high chance you?ve been exposed to the disease.</p><p>The Centers for Disease Control and Prevention (CDC) recommends that you self-quarantine if you have a medium or high risk of having recently contracted the coronavirus.</p><p>CDC has identified these two scenarios as high risk:</p>\n<ul><li>If you recently traveled back from China?s Hubei Province.</li><li>If you live with, or are intimate with, someone who has been diagnosed with coronavirus and you have taken no steps to protect yourself.</li></ul><p>The medium risk scenarios are:</p><ul><li>Recent travel to Iran, Italy, South Korea, or other regions with sustained community transmission.</li><li>Close contact with someone with a laboratory confirmed case of COVID-19.</li><li>Living with someone with confirmed COVID-19 and taking some precautions.</li></ul><p><b>If you experienced these risks, experts recommend that you stay away from others for 14 days to see if any symptoms of the virus develop.</b></p>"
  },
  {
    "Category": "If Sick",
@@ -60,27 +60,37 @@
    "Details": "<h3>How to keep clean</h3><p>The simplest steps to practice good hygiene for yourself and your household</p><ol><li>Don't touch your face.</li><li>Clean your hands often. Check out the video below.</li><li>Avoid close contact, especially with sick people.</li><li>Practice social distancing.</li><li>Cover your mouth when coughing.</li><li>Throw away used tissues.</li><li>Stock up on supplies.</li><li>If using food or grocery delivery, leave a note at door to tell the driver to leave the delivery at the door.</li><li>Clean and disinfect surfaces regularly.</li><li>Stay home if you have any signs of sickness</li></ol><p><iframe src=\"https://www.youtube-nocookie.com/embed/d914EnpU4Fo?autohide=0&amp;enablejsapi=1&amp;playerapiid=1013&amp;modestbranding=1&amp;rel=0&amp;origin=https://www.cdc.gov?autohide=0&amp;enablejsapi=1&amp;playerapiid=1013&amp;modestbranding=1&amp;rel=0&amp;origin=https://www.cdc.gov&amp;wmode=opaque?enablejsapi=1\" allowfullscreen=\"allowfullscreen\" title=\"What You Need To Know About Handwashing\" width=\"500\" height=\"300\"></iframe></p>"
  },
  {
-   "Category": "Social Distancing",
-   "Topic": "What is social distancing",
+   "Category": "If Sick",
+   "Topic": "Practice social distancing",
    "Details": "<h3>What is social definition</h3><p>It?s a common strategy for reducing the spread of disease. The closer the contact between people ? and the more people in a group ? the greater the risk of passing along viruses.</p><p>Try to keep at least 3 to 6 feet away (1-2 meters) away from others. Avoid handshakes and hugs ? use smiles and ?hellos? instead. If you prefer physical contact, use fist or elbow bumps.</p><p>Avoid group gatherings, especially in poorly ventilated spaces. Stay home when you have a compromised immune system; are pregnant; have a serious condition such as diabetes, heart disease or lung disease; or have a cough, fever, and/or difficulty breathing. People older than 60 are especially vulnerable to the COVID 19 virus.</p>"
  },
  {
-   "Category": "Social Distancing",
-   "Topic": "Avoid large gatherings",
+   "Category": "For Seniors",
+   "Topic": "Impact",
+   "Details": "<h3>Seniors are Most Vulnerable with Coronavirus</h3><div><chart id=\"seniors-top-stats\"></div><div><chart id=\"seniors-column-distribution\"></div>"
+ },
+ {
+   "Category": "For Seniors",
+   "Topic": "Grocery shopping tips",
    "Details": ""
  },
  {
-   "Category": "Social Distancing",
-   "Topic": "School closures",
-   "Details": ""
+   "Category": "For Seniors",
+   "Topic": "Is there a vaccine",
+   "Details": "<h3>Coronavirus vaccines are being researched</h3><p>While a vaccine is not yet available, researchers around the world are working hard to find a vaccine and bring it to the market as quickly as possible.</p>"
  },
  {
-   "Category": "Social Distancing",
+   "Category": "School Closures",
+   "Topic": "Impact",
+   "Details": "<h3>School Closure has Massive Community Impact</h3><div><chart id=\"schools-top-stats\"></div><div><chart id=\"schools-column-poverty-grade\"></div>"
+ },
+ {
+   "Category": "School Closures",
    "Topic": "Children at home",
-   "Details": "<h3>Engaging your children at home during coronavirus school closure</h3><p>Coronavirus has caused extended closures of schools. Having children at home might seem daunting. We have prepared a checklist of few items to help you to create a great experience for your children at your home.</p><ol><li style=\"font-weight: 600;\">Create a daily schedule.</li><p>It's important to have set hours for school, meals, chores and other daily activities. Your chilren are used to a set schedule in school. So, having a schedule will give them a feeling of normalcy.</p><li style=\"font-weight: 600;\">Provide a learning environment.</li><p>Your school is focused on helping your children learn. You have to now create that experience. Connect with the school to get their recommendations on what helps your child learn the best.</p><li style=\"font-weight: 600;\">Embrace the difference.</li><p>Your child knows this is not normal. Creating a perfect replica of their school experience will be difficult for you and feel articial to your kid. Instead, seize the opportunity and create a great experience for your child.</p><li style=\"font-weight: 600;\">Bribe them a little, if necessary.</li><p>You have to help your children get used to your schedule. Sometimes, you might need to provide them with incentives to adopt to this new structure. But, be careful not to overdo the incentives.</p><li style=\"font-weight: 600;\">Make it fun.</li><p>With extended school closure and social distancing, you will be spending a lot of time with your children and vice versa. Add activities that provide fun to you and your children.</p><li style=\"font-weight: 600;\">Take breaks.</li><p>Downtime is just as constructive as structured schedule. It will help your children find ways to be creative and productive with their free time.</p>\n<li style=\"font-weight: 600;\">Give yourself credit.</li><p>Take the time out from the day to focus on yourself. This period of time will be challenging. Every day will provide it's own set of challenges. Make sure to acknowledge your efforts and reward yourself for a job well done.</p></ol>"
+   "Details": "<h3>Engaging your children at home during school closure</h3><p>Coronavirus has caused extended closures of schools. Having children at home might seem daunting. We have prepared a checklist of few items to help you to create a great experience for your children at your home.</p><ol><li style=\"font-weight: 600;\">Create a daily schedule.</li><p>It's important to have set hours for school, meals, chores and other daily activities. Your chilren are used to a set schedule in school. So, having a schedule will give them a feeling of normalcy.</p><li style=\"font-weight: 600;\">Provide a learning environment.</li><p>Your school is focused on helping your children learn. You have to now create that experience. Connect with the school to get their recommendations on what helps your child learn the best.</p><li style=\"font-weight: 600;\">Embrace the difference.</li><p>Your child knows this is not normal. Creating a perfect replica of their school experience will be difficult for you and feel articial to your kid. Instead, seize the opportunity and create a great experience for your child.</p><li style=\"font-weight: 600;\">Bribe them a little, if necessary.</li><p>You have to help your children get used to your schedule. Sometimes, you might need to provide them with incentives to adopt to this new structure. But, be careful not to overdo the incentives.</p><li style=\"font-weight: 600;\">Make it fun.</li><p>With extended school closure and social distancing, you will be spending a lot of time with your children and vice versa. Add activities that provide fun to you and your children.</p><li style=\"font-weight: 600;\">Take breaks.</li><p>Downtime is just as constructive as structured schedule. It will help your children find ways to be creative and productive with their free time.</p>\n<li style=\"font-weight: 600;\">Give yourself credit.</li><p>Take the time out from the day to focus on yourself. This period of time will be challenging. Every day will provide it's own set of challenges. Make sure to acknowledge your efforts and reward yourself for a job well done.</p></ol>"
  },
  {
-   "Category": "Social Distancing",
+   "Category": "School Closures",
    "Topic": "Supplies needed",
    "Details": "<h3>Stock up at home</h3><p>If you are self-quarantined, consider having the following supplies at your home:</p><ul><li>Hand sanitizer</li><li>Soap</li><li>Detergent</li><li>Dry food</li><li>Bottled water</li><li>Rice</li><li>Proteins</li><li>Fruits</li><li>Toilet paper</li><li>Surface cleaner</li><li>Dry food</li></ul><p>If you have children in your family, consider stocking up on the following items:</p><ul><li>Milk</li><li>Snacks of choice</li><li>Simple board games</li></ul>"
  },
@@ -96,7 +106,7 @@
  },
  {
    "Category": "Local Preparedness",
-   "Topic": "Latest test results",
+   "Topic": "Latest test statistics",
    "Details": "<h3>Latest test results (updated: 3/13/20)</h3><table class=\"coronatable\" width=\"100%\" border=\"1\" cellspacing=\"0\" cellpadding=\"3\"><tbody><tr><th colspan=\"2\"><strong>COVID-19 Test Statistics</strong></th></tr><tr><td width=\"81%\"># of people tested</td><td style=\"text-align:center\" width=\"16%\">34</td></tr><tr><td># of positive</td><td style=\"text-align:center\">0</td></tr><tr><td># negative</td><td style=\"text-align:center\">15</td></tr><tr><td># pending</td><td style=\"text-align:center\">19</td></tr></tbody></table>"
  },
  {
