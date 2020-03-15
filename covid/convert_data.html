@@ -60,6 +60,12 @@
         mainland_china = mainland_china.filter(d => d.state !== "Hubei");
         mainland_china = reset_show_label(mainland_china);
         var others = my_data.filter(d => d.region !== "China");
+        others.forEach(function(d){
+            if(d.region === "United Kingdom"){
+                d.region = d.state;
+                d.state = "";
+            }
+        });
         var us = others.filter(d => d.region === "US");
         var dc_index = us.findIndex(d => d.state === "Washington, D.C.");
         us[dc_index].state = "Washington, DC";
