@@ -1,0 +1,12 @@
+The json files can be used in the same way the CSV files were used
+
+For Earnings:
+- Only use records where Time = 2010 to 2018
+- For Occupations Category, Subcategory, and Group, use the leaf nodes.
+	- 1) If Category=All, Subcategory=All, and Group=All, treat that as Occupation=All Occupations
+	- 2) If Category=A, Subcategory=B, and Group=C, Occupation=C
+	- 3) If Category=A, Subcategory=B, and Group=All, Occupation=B
+	- 4) Category=A, Subcategory=All, and Group=All, Occupation=A
+
+For Earnings by Gender:
+- Only use records where Time=2010 to 2018

@@ -1,0 +1,973 @@
+Source Indicator ID,Source Name,Indicator Category,Indicator Name,Indicator Description,Year,Location,Value,Unit,Desired Direction
+S2401_C01_001E,American Community Survey,Income,All occupations,,2010,Indianapolis,389468,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2010,Indiana,2999570,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2010,US,141833331,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2011,Indianapolis,386444,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2011,Indiana,2984502,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2011,US,141832499,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2012,Indianapolis,387379,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2012,Indiana,2978847,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2012,US,141996548,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2013,Indianapolis,385135,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2013,Indiana,2963879,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2013,US,141864697,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2014,Indianapolis,388776,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2014,Indiana,2994736,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2014,US,143435233,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2015,Indianapolis,396543,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2015,Indiana,3038762,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2015,US,145747779,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2016,Indianapolis,403860,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2016,Indiana,3085179,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2016,US,148001326,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2017,Indianapolis,409346,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2017,Indiana,3124295,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2017,US,150599165,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2018,Indianapolis,414877,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2018,Indiana,3164414,$,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2018,US,152739884,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2010,Indianapolis,131899,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2010,Indiana,940029,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2010,US,50034578,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2011,Indianapolis,129846,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2011,Indiana,948672,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2011,US,50572279,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2012,Indianapolis,130319,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2012,Indiana,953358,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2012,US,50976044,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2013,Indianapolis,130830,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2013,Indiana,950886,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2013,US,51341226,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2014,Indianapolis,130018,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2014,Indiana,964687,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2014,US,52234574,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2015,Indianapolis,133163,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2015,Indiana,983127,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2015,US,53433469,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2016,Indianapolis,137644,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2016,Indiana,1003818,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2016,US,54751318,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2017,Indianapolis,142389,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2017,Indiana,1037693,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2017,US,56391480,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2018,Indianapolis,144499,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2018,Indiana,1066465,$,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2018,US,57945862,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2010,Indianapolis,54234,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2010,Indiana,372526,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2010,US,20239287,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2011,Indianapolis,53043,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2011,Indiana,375347,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2011,US,20356415,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2012,Indianapolis,51967,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2012,Indiana,372227,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2012,US,20391092,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2013,Indianapolis,52396,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2013,Indiana,371068,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2013,US,20507708,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2014,Indianapolis,50548,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2014,Indiana,375281,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2014,US,20849843,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2015,Indianapolis,52679,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2015,Indiana,385342,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2015,US,21396780,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2016,Indianapolis,54965,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2016,Indiana,395595,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2016,US,21990616,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2017,Indianapolis,57317,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2017,Indiana,412096,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2017,US,22745247,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2018,Indianapolis,58373,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2018,Indiana,424854,$,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2018,US,23383049,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2010,Indianapolis,33709,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2010,Indiana,259268,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2010,US,13678900,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2011,Indianapolis,32813,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2011,Indiana,260360,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2011,US,13712348,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2012,Indianapolis,32612,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2012,Indiana,258680,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2012,US,13708597,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2013,Indianapolis,32494,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2013,Indiana,257587,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2013,US,13767620,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2014,Indianapolis,30981,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2014,Indiana,260309,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2014,US,13996812,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2015,Indianapolis,32881,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2015,Indiana,267748,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2015,US,14401271,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2016,Indianapolis,34452,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2016,Indiana,274645,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2016,US,14852828,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2017,Indianapolis,35823,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2017,Indiana,286775,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2017,US,15414863,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2018,Indianapolis,34561,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2018,Indiana,284912,$,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2018,US,15263898,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2010,Indianapolis,20525,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2010,Indiana,113258,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2010,US,6560387,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2011,Indianapolis,20230,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2011,Indiana,114987,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2011,US,6644067,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2012,Indianapolis,19355,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2012,Indiana,113547,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2012,US,6682495,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2013,Indianapolis,19902,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2013,Indiana,113481,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2013,US,6740088,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2014,Indianapolis,19567,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2014,Indiana,114972,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2014,US,6853031,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2015,Indianapolis,19798,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2015,Indiana,117594,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2015,US,6995509,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2016,Indianapolis,20513,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2016,Indiana,120950,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2016,US,7137788,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2017,Indianapolis,21494,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2017,Indiana,125321,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2017,US,7330384,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2018,Indianapolis,23812,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2018,Indiana,139942,$,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2018,US,8119151,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2010,Indianapolis,19154,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2010,Indiana,125434,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2010,US,7329905,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2011,Indianapolis,18253,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2011,Indiana,124543,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2011,US,7383969,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2012,Indianapolis,18361,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2012,Indiana,125298,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2012,US,7444293,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2013,Indianapolis,18074,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2013,Indiana,122820,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2013,US,7499737,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2014,Indianapolis,18115,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2014,Indiana,126583,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2014,US,7660461,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2015,Indianapolis,18507,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2015,Indiana,129466,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2015,US,7891250,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2016,Indianapolis,19246,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2016,Indiana,132454,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2016,US,8133920,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2017,Indianapolis,19235,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2017,Indiana,138166,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2017,US,8427417,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2018,Indianapolis,19983,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2018,Indiana,147924,$,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2018,US,8872203,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2010,Indianapolis,9210,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2010,Indiana,48758,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2010,US,3434537,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2011,Indianapolis,8851,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2011,Indiana,48665,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2011,US,3499354,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2012,Indianapolis,9187,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2012,Indiana,49321,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2012,US,3571107,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2013,Indianapolis,9237,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2013,Indiana,49577,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2013,US,3649146,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2014,Indianapolis,9274,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2014,Indiana,51293,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2014,US,3779411,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2015,Indianapolis,9830,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2015,Indiana,52452,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2015,US,3950741,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2016,Indianapolis,10158,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2016,Indiana,55099,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2016,US,4130533,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2017,Indianapolis,9892,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2017,Indiana,58457,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2017,US,4337289,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2018,Indianapolis,10461,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2018,Indiana,64159,$,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2018,US,4633860,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2010,Indianapolis,5834,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2010,Indiana,55494,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2010,US,2697562,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2011,Indianapolis,5546,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2011,Indiana,54847,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2011,US,2671731,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2012,Indianapolis,5494,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2012,Indiana,55028,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2012,US,2640485,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2013,Indianapolis,5175,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2013,Indiana,52876,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2013,US,2606225,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2014,Indianapolis,5117,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2014,Indiana,53760,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2014,US,2620119,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2015,Indianapolis,5118,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2015,Indiana,55435,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2015,US,2660852,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2016,Indianapolis,5197,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2016,Indiana,56414,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2016,US,2707634,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2017,Indianapolis,5279,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2017,Indiana,57755,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2017,US,2768696,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2018,Indianapolis,5410,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2018,Indiana,60204,$,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2018,US,2822111,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2010,Indianapolis,4110,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2010,Indiana,21182,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2010,US,1197806,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2011,Indianapolis,3856,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2011,Indiana,21031,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2011,US,1212884,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2012,Indianapolis,3680,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2012,Indiana,20949,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2012,US,1232701,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2013,Indianapolis,3662,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2013,Indiana,20367,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2013,US,1244366,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2014,Indianapolis,3724,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2014,Indiana,21530,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2014,US,1260931,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2015,Indianapolis,3559,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2015,Indiana,21579,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2015,US,1279657,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2016,Indianapolis,3891,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2016,Indiana,20941,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2016,US,1295753,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2017,Indianapolis,4064,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2017,Indiana,21954,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2017,US,1321432,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2018,Indianapolis,4112,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2018,Indiana,23561,$,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2018,US,1416232,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2010,Indianapolis,37201,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2010,Indiana,278181,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2010,US,15041337,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2011,Indianapolis,37179,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2011,Indiana,279687,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2011,US,15224255,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2012,Indianapolis,37850,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2012,Indiana,282177,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2012,US,15348288,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2013,Indianapolis,37661,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2013,Indiana,282605,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2013,US,15422749,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2014,Indianapolis,38299,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2014,Indiana,284817,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2014,US,15597761,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2015,Indianapolis,39000,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2015,Indiana,287139,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2015,US,15794307,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2016,Indianapolis,39366,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2016,Indiana,291143,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2016,US,16043993,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2017,Indianapolis,40152,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2017,Indiana,296343,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2017,US,16356217,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2018,Indianapolis,40238,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2018,Indiana,298349,$,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2018,US,16589936,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2010,Indianapolis,5875,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2010,Indiana,45369,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2010,US,2311549,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2011,Indianapolis,5761,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2011,Indiana,45807,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2011,US,2346284,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2012,Indianapolis,6505,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2012,Indiana,46772,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2012,US,2357690,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2013,Indianapolis,6254,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2013,Indiana,46999,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2013,US,2360085,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2014,Indianapolis,6355,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2014,Indiana,47445,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2014,US,2399283,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2015,Indianapolis,7039,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2015,Indiana,48990,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2015,US,2445528,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2016,Indianapolis,7823,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2016,Indiana,51382,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2016,US,2499671,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2017,Indianapolis,7624,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2017,Indiana,52190,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2017,US,2572116,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2018,Indianapolis,7773,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2018,Indiana,53944,$,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2018,US,2640964,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2010,Indianapolis,4486,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2010,Indiana,22611,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2010,US,1643482,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2011,Indianapolis,4625,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2011,Indiana,22948,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2011,US,1654077,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2012,Indianapolis,4779,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2012,Indiana,23638,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2012,US,1662029,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2013,Indianapolis,4838,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2013,Indiana,23749,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2013,US,1665098,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2014,Indianapolis,5152,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2014,Indiana,24133,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2014,US,1669156,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2015,Indianapolis,5606,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2015,Indiana,24776,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2015,US,1680244,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2016,Indianapolis,5156,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2016,Indiana,24216,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2016,US,1692402,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2017,Indianapolis,5349,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2017,Indiana,24369,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2017,US,1706819,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2018,Indianapolis,4823,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2018,Indiana,22810,$,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2018,US,1685153,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2010,Indianapolis,18859,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2010,Indiana,169325,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2010,US,8436145,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2011,Indianapolis,18786,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2011,Indiana,170219,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2011,US,8564978,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2012,Indianapolis,19182,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2012,Indiana,172358,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2012,US,8660533,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2013,Indianapolis,19549,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2013,Indiana,172655,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2013,US,8715072,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2014,Indianapolis,19783,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2014,Indiana,172554,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2014,US,8787346,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2015,Indianapolis,19430,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2015,Indiana,171891,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2015,US,8858448,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2016,Indianapolis,19402,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2016,Indiana,173408,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2016,US,8959122,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2017,Indianapolis,19621,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2017,Indiana,175502,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2017,US,9099897,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2018,Indianapolis,19930,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2018,Indiana,176272,$,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2018,US,9205592,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2010,Indianapolis,7981,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2010,Indiana,40876,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2010,US,2650161,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2011,Indianapolis,8007,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2011,Indiana,40713,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2011,US,2658916,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2012,Indianapolis,7384,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2012,Indiana,39409,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2012,US,2668036,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2013,Indianapolis,7020,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2013,Indiana,39202,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2013,US,2682494,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2014,Indianapolis,7009,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2014,Indiana,40685,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2014,US,2741976,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2015,Indianapolis,6925,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2015,Indiana,41482,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2015,US,2810087,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2016,Indianapolis,6985,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2016,Indiana,42137,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2016,US,2892798,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2017,Indianapolis,7558,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2017,Indiana,44282,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2017,US,2977385,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2018,Indianapolis,7712,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2018,Indiana,45323,$,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2018,US,3058227,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2010,Indianapolis,21310,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2010,Indiana,163888,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2010,US,7424049,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2011,Indianapolis,21371,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2011,Indiana,169095,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2011,US,7607640,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2012,Indianapolis,22141,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2012,Indiana,173656,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2012,US,7792371,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2013,Indianapolis,22699,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2013,Indiana,174393,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2013,US,7911032,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2014,Indianapolis,23056,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2014,Indiana,178006,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2014,US,8126509,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2015,Indianapolis,22977,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2015,Indiana,181180,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2015,US,8351132,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2016,Indianapolis,24067,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2016,Indiana,184626,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2016,US,8582789,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2017,Indianapolis,25685,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2017,Indiana,191088,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2017,US,8862599,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2018,Indianapolis,25905,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2018,Indiana,195338,$,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2018,US,9100674,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2010,Indianapolis,14065,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2010,Indiana,107732,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2010,US,5050100,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2011,Indianapolis,14027,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2011,Indiana,111123,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2011,US,5188256,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2012,Indianapolis,14712,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2012,Indiana,114530,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2012,US,5333656,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2013,Indianapolis,15113,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2013,Indiana,115614,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2013,US,5437871,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2014,Indianapolis,15434,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2014,Indiana,117949,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2014,US,5567715,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2015,Indianapolis,15385,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2015,Indiana,120857,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2015,US,5704159,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2016,Indianapolis,16073,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2016,Indiana,123031,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2016,US,5846351,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2017,Indianapolis,17109,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2017,Indiana,127515,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2017,US,6014096,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2018,Indianapolis,17481,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2018,Indiana,129619,$,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2018,US,6135435,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2010,Indianapolis,7245,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2010,Indiana,56156,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2010,US,2373949,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2011,Indianapolis,7344,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2011,Indiana,57972,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2011,US,2419384,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2012,Indianapolis,7429,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2012,Indiana,59126,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2012,US,2458715,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2013,Indianapolis,7586,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2013,Indiana,58779,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2013,US,2473161,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2014,Indianapolis,7622,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2014,Indiana,60057,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2014,US,2558794,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2015,Indianapolis,7592,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2015,Indiana,60323,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2015,US,2646973,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2016,Indianapolis,7994,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2016,Indiana,61595,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2016,US,2736438,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2017,Indianapolis,8576,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2017,Indiana,63573,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2017,US,2848503,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2018,Indianapolis,8424,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2018,Indiana,65719,$,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2018,US,2965239,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2010,Indianapolis,68629,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2010,Indiana,491144,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2010,US,24281015,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2011,Indianapolis,70981,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2011,Indiana,498797,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2011,US,24790091,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2012,Indianapolis,71895,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2012,Indiana,504456,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2012,US,25311187,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2013,Indianapolis,72234,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2013,Indiana,509612,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2013,US,25645065,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2014,Indianapolis,72760,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2014,Indiana,513303,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2014,US,26053338,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2015,Indianapolis,73127,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2015,Indiana,517254,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2015,US,26446906,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2016,Indianapolis,72493,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2016,Indiana,522908,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2016,US,26765182,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2017,Indianapolis,73038,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2017,Indiana,521924,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2017,US,27064027,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2018,Indianapolis,71540,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2018,Indiana,523048,$,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2018,US,27272863,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2010,Indianapolis,9159,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2010,Indiana,69370,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2010,US,3275129,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2011,Indianapolis,9955,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2011,Indiana,71248,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2011,US,3390788,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2012,Indianapolis,9995,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2012,Indiana,72161,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2012,US,3505347,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2013,Indianapolis,10281,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2013,Indiana,74025,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2013,US,3578407,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2014,Indianapolis,10780,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2014,Indiana,74982,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2014,US,3600248,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2015,Indianapolis,10541,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2015,Indiana,74474,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2015,US,3620362,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2016,Indianapolis,10417,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2016,Indiana,74532,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2016,US,3614865,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2017,Indianapolis,10384,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2017,Indiana,74232,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2017,US,3599168,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2018,Indianapolis,11997,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2018,Indiana,91536,$,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2018,US,4967031,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2010,Indianapolis,8178,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2010,Indiana,54454,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2010,US,3091553,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2011,Indianapolis,8735,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2011,Indiana,57057,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2011,US,3140611,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2012,Indianapolis,8644,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2012,Indiana,56122,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2012,US,3172920,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2013,Indianapolis,8289,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2013,Indiana,56424,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2013,US,3180940,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2014,Indianapolis,8340,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2014,Indiana,56914,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2014,US,3199909,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2015,Indianapolis,8130,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2015,Indiana,57236,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2015,US,3217627,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2016,Indianapolis,7288,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2016,Indiana,55043,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2016,US,3221331,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2017,Indianapolis,7202,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2017,Indiana,55524,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2017,US,3246525,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2018,Indianapolis,7410,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2018,Indiana,55689,$,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2018,US,3268923,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2010,Indianapolis,5710,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2010,Indiana,30943,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2010,US,1691142,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2011,Indianapolis,5943,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2011,Indiana,31329,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2011,US,1719855,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2012,Indianapolis,5819,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2012,Indiana,30747,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2012,US,1741974,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2013,Indianapolis,5522,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2013,Indiana,30816,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2013,US,1752014,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2014,Indianapolis,5307,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2014,Indiana,30576,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2014,US,1769250,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2015,Indianapolis,5128,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2015,Indiana,30946,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2015,US,1782243,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2016,Indianapolis,4588,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2016,Indiana,29825,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2016,US,1777506,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2017,Indianapolis,4686,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2017,Indiana,29637,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2017,US,1783914,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2018,Indianapolis,4821,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2018,Indiana,29366,$,high
+S2401_C01_021E,American Community Survey,Income,"Fire fighting and prevention, and other protective service workers including supervisors",,2018,US,1790469,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2010,Indianapolis,2468,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2010,Indiana,23511,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2010,US,1400411,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2011,Indianapolis,2792,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2011,Indiana,25728,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2011,US,1420756,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2012,Indianapolis,2825,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2012,Indiana,25375,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2012,US,1430946,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2013,Indianapolis,2767,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2013,Indiana,25608,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2013,US,1428926,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2014,Indianapolis,3033,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2014,Indiana,26338,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2014,US,1430659,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2015,Indianapolis,3002,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2015,Indiana,26290,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2015,US,1435384,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2016,Indianapolis,2700,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2016,Indiana,25218,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2016,US,1443825,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2017,Indianapolis,2516,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2017,Indiana,25887,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2017,US,1462611,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2018,Indianapolis,2589,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2018,Indiana,26323,$,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2018,US,1478454,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2010,Indianapolis,23466,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2010,Indiana,173253,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2010,US,7677309,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2011,Indianapolis,24693,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2011,Indiana,173752,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2011,US,7809896,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2012,Indianapolis,25845,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2012,Indiana,177438,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2012,US,7964748,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2013,Indianapolis,25393,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2013,Indiana,177181,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2013,US,8074590,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2014,Indianapolis,25486,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2014,Indiana,179314,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2014,US,8264101,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2015,Indianapolis,26061,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2015,Indiana,181295,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2015,US,8441956,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2016,Indianapolis,26199,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2016,Indiana,184911,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2016,US,8591828,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2017,Indianapolis,26947,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2017,Indiana,183515,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2017,US,8730596,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2018,Indianapolis,26539,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2018,Indiana,184785,$,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2018,US,8809855,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2010,Indianapolis,16348,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2010,Indiana,108222,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2010,US,5492953,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2011,Indianapolis,16199,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2011,Indiana,109287,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2011,US,5564685,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2012,Indianapolis,16102,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2012,Indiana,109215,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2012,US,5638696,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2013,Indianapolis,17028,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2013,Indiana,111833,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2013,US,5674335,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2014,Indianapolis,17244,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2014,Indiana,111947,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2014,US,5747695,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2015,Indianapolis,17362,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2015,Indiana,112803,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2015,US,5797711,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2016,Indianapolis,16880,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2016,Indiana,113500,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2016,US,5841063,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2017,Indianapolis,16842,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2017,Indiana,113199,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2017,US,5878982,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2018,Indianapolis,16112,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2018,Indiana,113164,$,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2018,US,5917795,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2010,Indianapolis,11478,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2010,Indiana,85845,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2010,US,4744071,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2011,Indianapolis,11399,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2011,Indiana,87453,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2011,US,4884111,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2012,Indianapolis,11309,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2012,Indiana,89520,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2012,US,5029476,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2013,Indianapolis,11243,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2013,Indiana,90149,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2013,US,5136793,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2014,Indianapolis,10910,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2014,Indiana,90146,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2014,US,5241385,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2015,Indianapolis,11033,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2015,Indiana,91446,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2015,US,5369250,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2016,Indianapolis,11709,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2016,Indiana,94922,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2016,US,5496095,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2017,Indianapolis,11663,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2017,Indiana,95454,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2017,US,5608756,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2018,Indianapolis,9482,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2018,Indiana,77874,$,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2018,US,4309259,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2010,Indianapolis,104022,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2010,Indiana,733842,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2010,US,36000118,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2011,Indianapolis,102480,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2011,Indiana,727787,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2011,US,35612518,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2012,Indianapolis,103017,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2012,Indiana,720102,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2012,US,35338663,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2013,Indianapolis,99741,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2013,Indiana,708542,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2013,US,34957520,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2014,Indianapolis,100787,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2014,Indiana,707351,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2014,US,34935133,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2015,Indianapolis,102074,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2015,Indiana,708055,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2015,US,35098693,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2016,Indianapolis,104344,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2016,Indiana,712936,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2016,US,35282759,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2017,Indianapolis,102329,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2017,Indiana,709695,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2017,US,35440563,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2018,Indianapolis,97010,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2018,Indiana,671079,$,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2018,US,33711613,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2010,Indianapolis,43041,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2010,Indiana,319505,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2010,US,15907529,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2011,Indianapolis,43239,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2011,Indiana,317800,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2011,US,15754248,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2012,Indianapolis,43506,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2012,Indiana,314386,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2012,US,15652899,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2013,Indianapolis,41713,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2013,Indiana,308655,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2013,US,15522845,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2014,Indianapolis,41479,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2014,Indiana,306607,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2014,US,15579876,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2015,Indianapolis,42590,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2015,Indiana,307075,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2015,US,15701788,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2016,Indianapolis,42586,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2016,Indiana,307932,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2016,US,15813870,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2017,Indianapolis,40787,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2017,Indiana,304090,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2017,US,15882766,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2018,Indianapolis,41470,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2018,Indiana,304990,$,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2018,US,15894500,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2010,Indianapolis,60981,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2010,Indiana,414337,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2010,US,20092589,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2011,Indianapolis,59241,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2011,Indiana,409987,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2011,US,19858270,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2012,Indianapolis,59511,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2012,Indiana,405716,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2012,US,19685764,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2013,Indianapolis,58028,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2013,Indiana,399887,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2013,US,19434675,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2014,Indianapolis,59308,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2014,Indiana,400744,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2014,US,19355257,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2015,Indianapolis,59484,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2015,Indiana,400980,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2015,US,19396905,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2016,Indianapolis,61758,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2016,Indiana,405004,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2016,US,19468889,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2017,Indianapolis,61542,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2017,Indiana,405605,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2017,US,19557797,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2018,Indianapolis,55540,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2018,Indiana,366089,$,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2018,US,17817113,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2010,Indianapolis,31413,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2010,Indiana,286699,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2010,US,13940273,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2011,Indianapolis,29743,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2011,Indiana,274939,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2011,US,13536208,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2012,Indianapolis,27932,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2012,Indiana,270134,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2012,US,13186262,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2013,Indianapolis,28073,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2013,Indiana,263121,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2013,US,12863316,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2014,Indianapolis,28268,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2014,Indiana,261696,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2014,US,12875934,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2015,Indianapolis,29372,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2015,Indiana,268110,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2015,US,13038579,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2016,Indianapolis,28774,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2016,Indiana,272936,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2016,US,13171632,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2017,Indianapolis,29800,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2017,Indiana,274526,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2017,US,13371659,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2018,Indianapolis,29481,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2018,Indiana,277436,$,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2018,US,13553675,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2010,Indianapolis,509,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2010,Indiana,13624,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2010,US,1011461,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2011,Indianapolis,501,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2011,Indiana,13878,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2011,US,1034057,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2012,Indianapolis,511,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2012,Indiana,13838,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2012,US,1031520,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2013,Indianapolis,583,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2013,Indiana,13559,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2013,US,1030881,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2014,Indianapolis,696,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2014,Indiana,13368,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2014,US,1050726,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2015,Indianapolis,685,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2015,Indiana,13246,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2015,US,1061192,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2016,Indianapolis,697,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2016,Indiana,13891,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2016,US,1057193,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2017,Indianapolis,661,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2017,Indiana,13627,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2017,US,1064488,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2018,Indianapolis,449,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2018,Indiana,13666,$,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2018,US,1068481,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2010,Indianapolis,19713,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2010,Indiana,159040,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2010,US,8135494,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2011,Indianapolis,17885,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2011,Indiana,149878,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2011,US,7751931,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2012,Indianapolis,16492,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2012,Indiana,145750,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2012,US,7435626,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2013,Indianapolis,16280,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2013,Indiana,140302,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2013,US,7167428,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2014,Indianapolis,16823,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2014,Indiana,140545,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2014,US,7169365,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2015,Indianapolis,17801,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2015,Indiana,144882,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2015,US,7283537,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2016,Indianapolis,18144,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2016,Indiana,148346,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2016,US,7404356,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2017,Indianapolis,19018,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2017,Indiana,151528,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2017,US,7585520,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2018,Indianapolis,18214,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2018,Indiana,154125,$,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2018,US,7761195,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2010,Indianapolis,11191,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2010,Indiana,114035,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2010,US,4793318,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2011,Indianapolis,11357,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2011,Indiana,111183,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2011,US,4750220,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2012,Indianapolis,10929,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2012,Indiana,110546,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2012,US,4719116,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2013,Indianapolis,11210,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2013,Indiana,109260,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2013,US,4665007,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2014,Indianapolis,10749,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2014,Indiana,107783,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2014,US,4655843,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2015,Indianapolis,10886,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2015,Indiana,109982,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2015,US,4693850,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2016,Indianapolis,9933,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2016,Indiana,110699,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2016,US,4710083,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2017,Indianapolis,10121,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2017,Indiana,109371,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2017,US,4721651,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2018,Indianapolis,10818,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2018,Indiana,109645,$,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2018,US,4723999,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2010,Indianapolis,53505,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2010,Indiana,547856,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2010,US,17577347,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2011,Indianapolis,53394,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2011,Indiana,534307,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2011,US,17321403,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2012,Indianapolis,54216,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2012,Indiana,530797,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2012,US,17184392,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2013,Indianapolis,54257,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2013,Indiana,531718,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2013,US,17057570,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2014,Indianapolis,56943,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2014,Indiana,547699,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2014,US,17336254,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2015,Indianapolis,58807,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2015,Indiana,562216,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2015,US,17730132,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2016,Indianapolis,60605,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2016,Indiana,572581,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2016,US,18030435,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2017,Indianapolis,61790,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2017,Indiana,580457,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2017,US,18331436,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2018,Indianapolis,72347,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2018,Indiana,626386,$,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2018,US,20255871,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2010,Indianapolis,25887,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2010,Indiana,325167,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2010,US,8912797,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2011,Indianapolis,25605,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2011,Indiana,313441,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2011,US,8696789,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2012,Indianapolis,25530,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2012,Indiana,309809,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2012,US,8554786,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2013,Indianapolis,25010,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2013,Indiana,307667,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2013,US,8440788,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2014,Indianapolis,25617,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2014,Indiana,315199,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2014,US,8541573,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2015,Indianapolis,26466,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2015,Indiana,322472,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2015,US,8694384,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2016,Indianapolis,26530,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2016,Indiana,327965,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2016,US,8770632,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2017,Indianapolis,26582,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2017,Indiana,330495,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2017,US,8842730,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2018,Indianapolis,27827,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2018,Indiana,332685,$,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2018,US,8862057,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2010,Indianapolis,13036,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2010,Indiana,114760,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2010,US,5088919,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2011,Indianapolis,12493,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2011,Indiana,113481,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2011,US,5061666,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2012,Indianapolis,12672,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2012,Indiana,112394,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2012,US,5051632,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2013,Indianapolis,12740,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2013,Indiana,113568,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2013,US,5038058,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2014,Indianapolis,13256,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2014,Indiana,115824,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2014,US,5113986,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2015,Indianapolis,13472,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2015,Indiana,118311,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2015,US,5248292,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2016,Indianapolis,14407,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2016,Indiana,120955,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2016,US,5392877,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2017,Indianapolis,14739,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2017,Indiana,123614,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2017,US,5537091,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2018,Indianapolis,15624,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2018,Indiana,123649,$,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2018,US,5704980,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2010,Indianapolis,14582,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2010,Indiana,107929,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2010,US,3575631,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2011,Indianapolis,15296,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2011,Indiana,107385,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2011,US,3562948,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2012,Indianapolis,16014,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2012,Indiana,108594,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2012,US,3577974,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2013,Indianapolis,16507,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2013,Indiana,110483,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2013,US,3578724,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2014,Indianapolis,18070,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2014,Indiana,116676,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2014,US,3680695,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2015,Indianapolis,18869,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2015,Indiana,121433,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2015,US,3787456,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2016,Indianapolis,19668,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2016,Indiana,123661,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2016,US,3866926,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2017,Indianapolis,20469,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2017,Indiana,126348,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2017,US,3951615,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2018,Indianapolis,28896,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2018,Indiana,170052,$,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2018,US,5688834,$,high

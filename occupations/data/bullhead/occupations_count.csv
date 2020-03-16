@@ -1,0 +1,973 @@
+Source Indicator ID,Source Name,Indicator Category,Indicator Name,Indicator Description,Year,Location,Value,Unit,Desired Direction
+S2401_C01_001E,American Community Survey,Income,All occupations,,2010,Bullhead City,15218,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2010,AZ,2747475,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2010,US,141833331,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2011,Bullhead City,15068,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2011,AZ,2739077,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2011,US,141832499,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2012,Bullhead City,14450,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2012,AZ,2733537,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2012,US,141996548,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2013,Bullhead City,13726,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2013,AZ,2721866,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2013,US,141864697,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2014,Bullhead City,14054,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2014,AZ,2754982,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2014,US,143435233,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2015,Bullhead City,14372,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2015,AZ,2813406,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2015,US,145747779,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2016,Bullhead City,14182,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2016,AZ,2879372,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2016,US,148001326,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2017,Bullhead City,14086,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2017,AZ,2953891,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2017,US,150599165,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2018,Bullhead City,14651,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2018,AZ,3045978,people,high
+S2401_C01_001E,American Community Survey,Income,All occupations,,2018,US,152739884,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2010,Bullhead City,3138,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2010,AZ,948700,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2010,US,50034578,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2011,Bullhead City,3166,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2011,AZ,949454,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2011,US,50572279,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2012,Bullhead City,2962,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2012,AZ,951259,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2012,US,50976044,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2013,Bullhead City,2889,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2013,AZ,954771,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2013,US,51341226,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2014,Bullhead City,3075,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2014,AZ,969339,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2014,US,52234574,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2015,Bullhead City,3254,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2015,AZ,986331,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2015,US,53433469,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2016,Bullhead City,3166,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2016,AZ,1017992,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2016,US,54751318,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2017,Bullhead City,3076,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2017,AZ,1053407,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2017,US,56391480,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2018,Bullhead City,3390,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2018,AZ,1094402,people,high
+S2401_C01_002E,American Community Survey,Income,"Management, business, science, and arts occupations",,2018,US,57945862,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2010,Bullhead City,1383,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2010,AZ,394986,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2010,US,20239287,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2011,Bullhead City,1328,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2011,AZ,391730,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2011,US,20356415,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2012,Bullhead City,1414,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2012,AZ,390667,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2012,US,20391092,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2013,Bullhead City,1216,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2013,AZ,386341,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2013,US,20507708,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2014,Bullhead City,1346,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2014,AZ,393145,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2014,US,20849843,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2015,Bullhead City,1341,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2015,AZ,401958,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2015,US,21396780,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2016,Bullhead City,1310,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2016,AZ,414794,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2016,US,21990616,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2017,Bullhead City,1154,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2017,AZ,432957,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2017,US,22745247,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2018,Bullhead City,1461,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2018,AZ,450344,people,high
+S2401_C01_003E,American Community Survey,Income,"Management, business, and financial occupations",,2018,US,23383049,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2010,Bullhead City,929,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2010,AZ,267121,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2010,US,13678900,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2011,Bullhead City,922,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2011,AZ,262772,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2011,US,13712348,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2012,Bullhead City,1053,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2012,AZ,260005,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2012,US,13708597,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2013,Bullhead City,923,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2013,AZ,256570,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2013,US,13767620,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2014,Bullhead City,1041,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2014,AZ,259904,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2014,US,13996812,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2015,Bullhead City,1055,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2015,AZ,264864,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2015,US,14401271,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2016,Bullhead City,987,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2016,AZ,274289,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2016,US,14852828,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2017,Bullhead City,900,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2017,AZ,287108,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2017,US,15414863,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2018,Bullhead City,1161,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2018,AZ,286341,people,high
+S2401_C01_004E,American Community Survey,Income,Management occupations,,2018,US,15263898,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2010,Bullhead City,454,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2010,AZ,127865,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2010,US,6560387,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2011,Bullhead City,406,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2011,AZ,128958,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2011,US,6644067,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2012,Bullhead City,361,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2012,AZ,130662,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2012,US,6682495,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2013,Bullhead City,293,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2013,AZ,129771,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2013,US,6740088,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2014,Bullhead City,305,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2014,AZ,133241,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2014,US,6853031,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2015,Bullhead City,286,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2015,AZ,137094,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2015,US,6995509,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2016,Bullhead City,323,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2016,AZ,140505,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2016,US,7137788,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2017,Bullhead City,254,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2017,AZ,145849,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2017,US,7330384,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2018,Bullhead City,300,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2018,AZ,164003,people,high
+S2401_C01_005E,American Community Survey,Income,Business and financial operations occupations,,2018,US,8119151,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2010,Bullhead City,235,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2010,AZ,145705,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2010,US,7329905,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2011,Bullhead City,310,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2011,AZ,146522,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2011,US,7383969,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2012,Bullhead City,283,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2012,AZ,148641,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2012,US,7444293,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2013,Bullhead City,287,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2013,AZ,150523,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2013,US,7499737,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2014,Bullhead City,270,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2014,AZ,150752,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2014,US,7660461,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2015,Bullhead City,240,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2015,AZ,152063,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2015,US,7891250,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2016,Bullhead City,210,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2016,AZ,155350,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2016,US,8133920,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2017,Bullhead City,215,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2017,AZ,159474,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2017,US,8427417,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2018,Bullhead City,172,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2018,AZ,169569,people,high
+S2401_C01_006E,American Community Survey,Income,"Computer, engineering, and science occupations",,2018,US,8872203,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2010,Bullhead City,43,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2010,AZ,67306,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2010,US,3434537,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2011,Bullhead City,29,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2011,AZ,68766,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2011,US,3499354,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2012,Bullhead City,27,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2012,AZ,71819,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2012,US,3571107,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2013,Bullhead City,54,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2013,AZ,74355,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2013,US,3649146,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2014,Bullhead City,63,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2014,AZ,75072,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2014,US,3779411,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2015,Bullhead City,60,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2015,AZ,76612,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2015,US,3950741,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2016,Bullhead City,81,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2016,AZ,80297,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2016,US,4130533,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2017,Bullhead City,105,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2017,AZ,82052,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2017,US,4337289,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2018,Bullhead City,91,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2018,AZ,88203,people,high
+S2401_C01_007E,American Community Survey,Income,Computer and mathematical occupations,,2018,US,4633860,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2010,Bullhead City,112,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2010,AZ,61691,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2010,US,2697562,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2011,Bullhead City,203,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2011,AZ,60540,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2011,US,2671731,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2012,Bullhead City,153,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2012,AZ,59218,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2012,US,2640485,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2013,Bullhead City,132,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2013,AZ,57982,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2013,US,2606225,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2014,Bullhead City,149,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2014,AZ,56569,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2014,US,2620119,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2015,Bullhead City,131,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2015,AZ,56246,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2015,US,2660852,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2016,Bullhead City,75,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2016,AZ,56273,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2016,US,2707634,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2017,Bullhead City,73,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2017,AZ,57852,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2017,US,2768696,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2018,Bullhead City,52,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2018,AZ,59871,people,high
+S2401_C01_008E,American Community Survey,Income,Architecture and engineering occupations,,2018,US,2822111,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2010,Bullhead City,80,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2010,AZ,16708,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2010,US,1197806,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2011,Bullhead City,78,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2011,AZ,17216,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2011,US,1212884,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2012,Bullhead City,103,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2012,AZ,17604,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2012,US,1232701,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2013,Bullhead City,101,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2013,AZ,18186,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2013,US,1244366,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2014,Bullhead City,58,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2014,AZ,19111,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2014,US,1260931,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2015,Bullhead City,49,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2015,AZ,19205,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2015,US,1279657,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2016,Bullhead City,54,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2016,AZ,18780,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2016,US,1295753,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2017,Bullhead City,37,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2017,AZ,19570,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2017,US,1321432,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2018,Bullhead City,29,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2018,AZ,21495,people,high
+S2401_C01_009E,American Community Survey,Income,"Life, physical, and social science occupations",,2018,US,1416232,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2010,Bullhead City,1020,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2010,AZ,271892,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2010,US,15041337,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2011,Bullhead City,1053,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2011,AZ,272565,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2011,US,15224255,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2012,Bullhead City,877,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2012,AZ,272214,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2012,US,15348288,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2013,Bullhead City,1026,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2013,AZ,275127,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2013,US,15422749,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2014,Bullhead City,877,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2014,AZ,276986,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2014,US,15597761,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2015,Bullhead City,947,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2015,AZ,279094,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2015,US,15794307,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2016,Bullhead City,924,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2016,AZ,287387,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2016,US,16043993,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2017,Bullhead City,932,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2017,AZ,294446,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2017,US,16356217,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2018,Bullhead City,858,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2018,AZ,299917,people,high
+S2401_C01_010E,American Community Survey,Income,"Education, legal, community service, arts, and media occupations",,2018,US,16589936,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2010,Bullhead City,86,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2010,AZ,47449,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2010,US,2311549,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2011,Bullhead City,94,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2011,AZ,48042,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2011,US,2346284,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2012,Bullhead City,63,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2012,AZ,46962,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2012,US,2357690,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2013,Bullhead City,77,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2013,AZ,47370,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2013,US,2360085,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2014,Bullhead City,103,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2014,AZ,48725,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2014,US,2399283,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2015,Bullhead City,104,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2015,AZ,50089,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2015,US,2445528,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2016,Bullhead City,142,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2016,AZ,50728,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2016,US,2499671,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2017,Bullhead City,132,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2017,AZ,50569,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2017,US,2572116,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2018,Bullhead City,142,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2018,AZ,50110,people,high
+S2401_C01_011E,American Community Survey,Income,Community and social service occupations,,2018,US,2640964,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2010,Bullhead City,81,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2010,AZ,28103,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2010,US,1643482,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2011,Bullhead City,111,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2011,AZ,27772,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2011,US,1654077,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2012,Bullhead City,106,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2012,AZ,27399,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2012,US,1662029,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2013,Bullhead City,146,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2013,AZ,27227,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2013,US,1665098,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2014,Bullhead City,128,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2014,AZ,27005,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2014,US,1669156,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2015,Bullhead City,191,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2015,AZ,27229,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2015,US,1680244,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2016,Bullhead City,126,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2016,AZ,28160,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2016,US,1692402,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2017,Bullhead City,119,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2017,AZ,28236,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2017,US,1706819,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2018,Bullhead City,68,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2018,AZ,27560,people,high
+S2401_C01_012E,American Community Survey,Income,Legal occupations,,2018,US,1685153,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2010,Bullhead City,698,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2010,AZ,149545,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2010,US,8436145,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2011,Bullhead City,710,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2011,AZ,151369,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2011,US,8564978,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2012,Bullhead City,605,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2012,AZ,153176,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2012,US,8660533,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2013,Bullhead City,695,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2013,AZ,154943,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2013,US,8715072,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2014,Bullhead City,555,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2014,AZ,155625,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2014,US,8787346,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2015,Bullhead City,521,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2015,AZ,155233,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2015,US,8858448,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2016,Bullhead City,575,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2016,AZ,158570,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2016,US,8959122,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2017,Bullhead City,551,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2017,AZ,164011,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2017,US,9099897,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2018,Bullhead City,481,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2018,AZ,167600,people,high
+S2401_C01_013E,American Community Survey,Income,"Educational instruction, and library occupations",,2018,US,9205592,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2010,Bullhead City,155,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2010,AZ,46795,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2010,US,2650161,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2011,Bullhead City,138,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2011,AZ,45382,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2011,US,2658916,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2012,Bullhead City,103,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2012,AZ,44677,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2012,US,2668036,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2013,Bullhead City,108,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2013,AZ,45587,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2013,US,2682494,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2014,Bullhead City,91,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2014,AZ,45631,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2014,US,2741976,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2015,Bullhead City,131,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2015,AZ,46543,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2015,US,2810087,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2016,Bullhead City,81,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2016,AZ,49929,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2016,US,2892798,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2017,Bullhead City,130,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2017,AZ,51630,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2017,US,2977385,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2018,Bullhead City,167,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2018,AZ,54647,people,high
+S2401_C01_014E,American Community Survey,Income,"Arts, design, entertainment, sports, and media occupations",,2018,US,3058227,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2010,Bullhead City,500,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2010,AZ,136117,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2010,US,7424049,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2011,Bullhead City,475,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2011,AZ,138637,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2011,US,7607640,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2012,Bullhead City,388,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2012,AZ,139737,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2012,US,7792371,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2013,Bullhead City,360,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2013,AZ,142780,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2013,US,7911032,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2014,Bullhead City,582,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2014,AZ,148456,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2014,US,8126509,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2015,Bullhead City,726,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2015,AZ,153216,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2015,US,8351132,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2016,Bullhead City,722,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2016,AZ,160461,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2016,US,8582789,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2017,Bullhead City,775,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2017,AZ,166530,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2017,US,8862599,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2018,Bullhead City,899,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2018,AZ,174572,people,high
+S2401_C01_015E,American Community Survey,Income,Healthcare practitioners and technical occupations,,2018,US,9100674,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2010,Bullhead City,337,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2010,AZ,93920,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2010,US,5050100,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2011,Bullhead City,279,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2011,AZ,95908,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2011,US,5188256,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2012,Bullhead City,193,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2012,AZ,97201,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2012,US,5333656,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2013,Bullhead City,182,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2013,AZ,98367,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2013,US,5437871,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2014,Bullhead City,419,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2014,AZ,101697,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2014,US,5567715,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2015,Bullhead City,504,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2015,AZ,104269,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2015,US,5704159,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2016,Bullhead City,463,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2016,AZ,108930,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2016,US,5846351,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2017,Bullhead City,460,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2017,AZ,112591,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2017,US,6014096,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2018,Bullhead City,562,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2018,AZ,117063,people,high
+S2401_C01_016E,American Community Survey,Income,Health diagnosing and treating practitioners and other technical occupations,,2018,US,6135435,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2010,Bullhead City,163,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2010,AZ,42197,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2010,US,2373949,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2011,Bullhead City,196,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2011,AZ,42729,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2011,US,2419384,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2012,Bullhead City,195,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2012,AZ,42536,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2012,US,2458715,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2013,Bullhead City,178,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2013,AZ,44413,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2013,US,2473161,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2014,Bullhead City,163,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2014,AZ,46759,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2014,US,2558794,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2015,Bullhead City,222,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2015,AZ,48947,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2015,US,2646973,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2016,Bullhead City,259,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2016,AZ,51531,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2016,US,2736438,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2017,Bullhead City,315,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2017,AZ,53939,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2017,US,2848503,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2018,Bullhead City,337,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2018,AZ,57509,people,high
+S2401_C01_017E,American Community Survey,Income,Health technologists and technicians,,2018,US,2965239,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2010,Bullhead City,5860,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2010,AZ,499205,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2010,US,24281015,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2011,Bullhead City,5496,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2011,AZ,518070,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2011,US,24790091,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2012,Bullhead City,5571,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2012,AZ,531042,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2012,US,25311187,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2013,Bullhead City,5179,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2013,AZ,537658,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2013,US,25645065,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2014,Bullhead City,4733,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2014,AZ,546173,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2014,US,26053338,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2015,Bullhead City,4888,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2015,AZ,559290,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2015,US,26446906,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2016,Bullhead City,4949,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2016,AZ,572224,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2016,US,26765182,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2017,Bullhead City,4829,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2017,AZ,579712,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2017,US,27064027,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2018,Bullhead City,5244,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2018,AZ,597400,people,high
+S2401_C01_018E,American Community Survey,Income,Service occupations,,2018,US,27272863,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2010,Bullhead City,392,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2010,AZ,51937,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2010,US,3275129,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2011,Bullhead City,339,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2011,AZ,56421,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2011,US,3390788,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2012,Bullhead City,415,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2012,AZ,59403,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2012,US,3505347,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2013,Bullhead City,448,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2013,AZ,60556,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2013,US,3578407,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2014,Bullhead City,486,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2014,AZ,59552,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2014,US,3600248,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2015,Bullhead City,370,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2015,AZ,58463,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2015,US,3620362,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2016,Bullhead City,364,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2016,AZ,58807,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2016,US,3614865,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2017,Bullhead City,339,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2017,AZ,58759,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2017,US,3599168,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2018,Bullhead City,533,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2018,AZ,95297,people,high
+S2401_C01_019E,American Community Survey,Income,Healthcare support occupations,,2018,US,4967031,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2010,Bullhead City,510,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2010,AZ,73124,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2010,US,3091553,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2011,Bullhead City,636,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2011,AZ,77332,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2011,US,3140611,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2012,Bullhead City,615,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2012,AZ,78998,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2012,US,3172920,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2013,Bullhead City,499,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2013,AZ,79356,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2013,US,3180940,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2014,Bullhead City,530,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2014,AZ,81239,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2014,US,3199909,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2015,Bullhead City,491,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2015,AZ,81649,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2015,US,3217627,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2016,Bullhead City,463,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2016,AZ,80898,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2016,US,3221331,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2017,Bullhead City,413,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2017,AZ,80632,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2017,US,3246525,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2018,Bullhead City,562,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2018,AZ,80502,people,high
+S2401_C01_020E,American Community Survey,Income,Protective service occupations,,2018,US,3268923,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2010,Bullhead City,293,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2010,AZ,39135,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2010,US,1691142,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2011,Bullhead City,418,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2011,AZ,41358,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2011,US,1719855,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2012,Bullhead City,461,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2012,AZ,41923,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2012,US,1741974,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2013,Bullhead City,381,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2013,AZ,41670,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2013,US,1752014,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2014,Bullhead City,425,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2014,AZ,43507,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2014,US,1769250,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2015,Bullhead City,384,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2015,AZ,44110,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2015,US,1782243,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2016,Bullhead City,308,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2016,AZ,44045,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2016,US,1777506,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2017,Bullhead City,245,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2017,AZ,44264,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2017,US,1783914,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2018,Bullhead City,402,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2018,AZ,44449,people,high
+S2401_C01_021E,American Community Survey,Income,"Firefighting and prevention, and other protective service workers including supervisors",,2018,US,1790469,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2010,Bullhead City,217,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2010,AZ,33989,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2010,US,1400411,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2011,Bullhead City,218,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2011,AZ,35974,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2011,US,1420756,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2012,Bullhead City,154,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2012,AZ,37075,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2012,US,1430946,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2013,Bullhead City,118,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2013,AZ,37686,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2013,US,1428926,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2014,Bullhead City,105,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2014,AZ,37732,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2014,US,1430659,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2015,Bullhead City,107,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2015,AZ,37539,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2015,US,1435384,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2016,Bullhead City,155,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2016,AZ,36853,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2016,US,1443825,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2017,Bullhead City,168,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2017,AZ,36368,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2017,US,1462611,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2018,Bullhead City,160,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2018,AZ,36053,people,high
+S2401_C01_022E,American Community Survey,Income,Law enforcement workers including supervisors,,2018,US,1478454,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2010,Bullhead City,2396,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2010,AZ,158380,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2010,US,7677309,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2011,Bullhead City,2219,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2011,AZ,163602,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2011,US,7809896,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2012,Bullhead City,2335,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2012,AZ,167447,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2012,US,7964748,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2013,Bullhead City,2231,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2013,AZ,168483,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2013,US,8074590,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2014,Bullhead City,1737,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2014,AZ,171253,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2014,US,8264101,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2015,Bullhead City,1977,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2015,AZ,177467,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2015,US,8441956,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2016,Bullhead City,2107,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2016,AZ,181706,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2016,US,8591828,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2017,Bullhead City,2162,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2017,AZ,184982,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2017,US,8730596,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2018,Bullhead City,2156,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2018,AZ,193969,people,high
+S2401_C01_023E,American Community Survey,Income,Food preparation and serving related occupations,,2018,US,8809855,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2010,Bullhead City,1185,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2010,AZ,117698,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2010,US,5492953,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2011,Bullhead City,1005,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2011,AZ,118986,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2011,US,5564685,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2012,Bullhead City,1039,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2012,AZ,119688,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2012,US,5638696,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2013,Bullhead City,966,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2013,AZ,122255,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2013,US,5674335,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2014,Bullhead City,1127,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2014,AZ,125037,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2014,US,5747695,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2015,Bullhead City,1028,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2015,AZ,128356,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2015,US,5797711,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2016,Bullhead City,976,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2016,AZ,131335,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2016,US,5841063,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2017,Bullhead City,936,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2017,AZ,134586,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2017,US,5878982,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2018,Bullhead City,1185,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2018,AZ,139426,people,high
+S2401_C01_024E,American Community Survey,Income,Building and grounds cleaning and maintenance occupations,,2018,US,5917795,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2010,Bullhead City,1377,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2010,AZ,98066,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2010,US,4744071,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2011,Bullhead City,1297,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2011,AZ,101729,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2011,US,4884111,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2012,Bullhead City,1167,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2012,AZ,105506,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2012,US,5029476,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2013,Bullhead City,1035,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2013,AZ,107008,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2013,US,5136793,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2014,Bullhead City,853,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2014,AZ,109092,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2014,US,5241385,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2015,Bullhead City,1022,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2015,AZ,113355,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2015,US,5369250,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2016,Bullhead City,1039,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2016,AZ,119478,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2016,US,5496095,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2017,Bullhead City,979,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2017,AZ,120753,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2017,US,5608756,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2018,Bullhead City,808,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2018,AZ,88206,people,high
+S2401_C01_025E,American Community Survey,Income,Personal care and service occupations,,2018,US,4309259,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2010,Bullhead City,3671,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2010,AZ,741757,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2010,US,36000118,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2011,Bullhead City,3751,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2011,AZ,733607,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2011,US,35612518,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2012,Bullhead City,3510,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2012,AZ,730805,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2012,US,35338663,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2013,Bullhead City,3499,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2013,AZ,722720,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2013,US,34957520,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2014,Bullhead City,3939,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2014,AZ,725533,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2014,US,34935133,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2015,Bullhead City,3878,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2015,AZ,737817,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2015,US,35098693,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2016,Bullhead City,3850,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2016,AZ,747220,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2016,US,35282759,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2017,Bullhead City,3856,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2017,AZ,765571,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2017,US,35440563,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2018,Bullhead City,3351,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2018,AZ,743623,people,high
+S2401_C01_026E,American Community Survey,Income,Sales and office occupations,,2018,US,33711613,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2010,Bullhead City,1704,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2010,AZ,332125,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2010,US,15907529,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2011,Bullhead City,1692,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2011,AZ,325895,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2011,US,15754248,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2012,Bullhead City,1571,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2012,AZ,323801,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2012,US,15652899,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2013,Bullhead City,1644,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2013,AZ,321609,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2013,US,15522845,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2014,Bullhead City,1880,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2014,AZ,324672,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2014,US,15579876,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2015,Bullhead City,1897,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2015,AZ,328559,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2015,US,15701788,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2016,Bullhead City,2024,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2016,AZ,331949,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2016,US,15813870,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2017,Bullhead City,2083,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2017,AZ,339292,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2017,US,15882766,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2018,Bullhead City,1927,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2018,AZ,340174,people,high
+S2401_C01_027E,American Community Survey,Income,Sales and related occupations,,2018,US,15894500,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2010,Bullhead City,1967,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2010,AZ,409632,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2010,US,20092589,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2011,Bullhead City,2059,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2011,AZ,407712,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2011,US,19858270,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2012,Bullhead City,1939,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2012,AZ,407004,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2012,US,19685764,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2013,Bullhead City,1855,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2013,AZ,401111,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2013,US,19434675,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2014,Bullhead City,2059,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2014,AZ,400861,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2014,US,19355257,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2015,Bullhead City,1981,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2015,AZ,409258,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2015,US,19396905,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2016,Bullhead City,1826,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2016,AZ,415271,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2016,US,19468889,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2017,Bullhead City,1773,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2017,AZ,426279,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2017,US,19557797,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2018,Bullhead City,1424,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2018,AZ,403449,people,high
+S2401_C01_028E,American Community Survey,Income,Office and administrative support occupations,,2018,US,17817113,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2010,Bullhead City,1594,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2010,AZ,297558,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2010,US,13940273,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2011,Bullhead City,1712,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2011,AZ,279924,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2011,US,13536208,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2012,Bullhead City,1321,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2012,AZ,262307,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2012,US,13186262,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2013,Bullhead City,1216,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2013,AZ,250505,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2013,US,12863316,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2014,Bullhead City,1220,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2014,AZ,251532,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2014,US,12875934,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2015,Bullhead City,1207,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2015,AZ,258469,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2015,US,13038579,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2016,Bullhead City,1146,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2016,AZ,263662,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2016,US,13171632,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2017,Bullhead City,1131,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2017,AZ,269299,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2017,US,13371659,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2018,Bullhead City,1081,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2018,AZ,276848,people,high
+S2401_C01_029E,American Community Survey,Income,"Natural resources, construction, and maintenance occupations",,2018,US,13553675,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2010,Bullhead City,20,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2010,AZ,14123,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2010,US,1011461,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2011,Bullhead City,20,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2011,AZ,14662,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2011,US,1034057,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2012,Bullhead City,0,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2012,AZ,14492,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2012,US,1031520,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2013,Bullhead City,0,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2013,AZ,15139,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2013,US,1030881,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2014,Bullhead City,0,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2014,AZ,16291,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2014,US,1050726,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2015,Bullhead City,0,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2015,AZ,17386,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2015,US,1061192,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2016,Bullhead City,0,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2016,AZ,17577,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2016,US,1057193,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2017,Bullhead City,0,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2017,AZ,17959,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2017,US,1064488,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2018,Bullhead City,0,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2018,AZ,18804,people,high
+S2401_C01_030E,American Community Survey,Income,"Farming, fishing, and forestry occupations",,2018,US,1068481,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2010,Bullhead City,969,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2010,AZ,184622,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2010,US,8135494,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2011,Bullhead City,935,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2011,AZ,165886,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2011,US,7751931,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2012,Bullhead City,635,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2012,AZ,148226,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2012,US,7435626,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2013,Bullhead City,508,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2013,AZ,137521,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2013,US,7167428,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2014,Bullhead City,679,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2014,AZ,138426,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2014,US,7169365,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2015,Bullhead City,636,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2015,AZ,141840,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2015,US,7283537,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2016,Bullhead City,584,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2016,AZ,146448,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2016,US,7404356,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2017,Bullhead City,699,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2017,AZ,151908,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2017,US,7585520,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2018,Bullhead City,693,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2018,AZ,156971,people,high
+S2401_C01_031E,American Community Survey,Income,Construction and extraction occupations,,2018,US,7761195,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2010,Bullhead City,605,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2010,AZ,98813,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2010,US,4793318,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2011,Bullhead City,757,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2011,AZ,99376,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2011,US,4750220,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2012,Bullhead City,686,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2012,AZ,99589,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2012,US,4719116,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2013,Bullhead City,708,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2013,AZ,97845,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2013,US,4665007,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2014,Bullhead City,541,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2014,AZ,96815,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2014,US,4655843,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2015,Bullhead City,571,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2015,AZ,99243,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2015,US,4693850,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2016,Bullhead City,562,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2016,AZ,99637,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2016,US,4710083,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2017,Bullhead City,432,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2017,AZ,99432,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2017,US,4721651,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2018,Bullhead City,388,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2018,AZ,101073,people,high
+S2401_C01_032E,American Community Survey,Income,"Installation, maintenance, and repair occupations",,2018,US,4723999,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2010,Bullhead City,955,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2010,AZ,260255,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2010,US,17577347,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2011,Bullhead City,943,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2011,AZ,258022,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2011,US,17321403,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2012,Bullhead City,1086,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2012,AZ,258124,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2012,US,17184392,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2013,Bullhead City,943,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2013,AZ,256212,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2013,US,17057570,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2014,Bullhead City,1087,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2014,AZ,262405,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2014,US,17336254,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2015,Bullhead City,1145,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2015,AZ,271499,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2015,US,17730132,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2016,Bullhead City,1071,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2016,AZ,278274,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2016,US,18030435,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2017,Bullhead City,1194,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2017,AZ,285902,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2017,US,18331436,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2018,Bullhead City,1585,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2018,AZ,333705,people,high
+S2401_C01_033E,American Community Survey,Income,"Production, transportation, and material moving occupations",,2018,US,20255871,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2010,Bullhead City,436,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2010,AZ,116086,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2010,US,8912797,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2011,Bullhead City,409,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2011,AZ,112691,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2011,US,8696789,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2012,Bullhead City,424,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2012,AZ,112822,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2012,US,8554786,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2013,Bullhead City,327,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2013,AZ,112125,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2013,US,8440788,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2014,Bullhead City,342,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2014,AZ,113719,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2014,US,8541573,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2015,Bullhead City,374,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2015,AZ,118271,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2015,US,8694384,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2016,Bullhead City,349,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2016,AZ,120491,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2016,US,8770632,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2017,Bullhead City,404,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2017,AZ,119368,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2017,US,8842730,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2018,Bullhead City,390,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2018,AZ,123040,people,high
+S2401_C01_034E,American Community Survey,Income,Production occupations,,2018,US,8862057,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2010,Bullhead City,231,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2010,AZ,93365,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2010,US,5088919,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2011,Bullhead City,317,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2011,AZ,92955,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2011,US,5061666,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2012,Bullhead City,439,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2012,AZ,91792,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2012,US,5051632,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2013,Bullhead City,466,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2013,AZ,90037,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2013,US,5038058,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2014,Bullhead City,508,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2014,AZ,90593,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2014,US,5113986,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2015,Bullhead City,622,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2015,AZ,93691,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2015,US,5248292,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2016,Bullhead City,565,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2016,AZ,95865,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2016,US,5392877,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2017,Bullhead City,571,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2017,AZ,100717,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2017,US,5537091,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2018,Bullhead City,686,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2018,AZ,106618,people,high
+S2401_C01_035E,American Community Survey,Income,Transportation occupations,,2018,US,5704980,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2010,Bullhead City,288,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2010,AZ,50804,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2010,US,3575631,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2011,Bullhead City,217,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2011,AZ,52376,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2011,US,3562948,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2012,Bullhead City,223,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2012,AZ,53510,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2012,US,3577974,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2013,Bullhead City,150,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2013,AZ,54050,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2013,US,3578724,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2014,Bullhead City,237,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2014,AZ,58093,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2014,US,3680695,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2015,Bullhead City,149,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2015,AZ,59537,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2015,US,3787456,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2016,Bullhead City,157,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2016,AZ,61918,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2016,US,3866926,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2017,Bullhead City,219,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2017,AZ,65817,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2017,US,3951615,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2018,Bullhead City,509,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2018,AZ,104047,people,high
+S2401_C01_036E,American Community Survey,Income,Material moving occupations,,2018,US,5688834,people,high
