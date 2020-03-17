@@ -3,29 +3,31 @@
 <head>
   <meta charset="utf-8">
   <title>City of Moline Example</title>
-  <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
-  <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
-  <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+  <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
   <script type="text/javascript" src="data.js"></script>
   <script>
   $(function() {
    //var availableTags = [{label:"Basic", the_link:"http://www.msn.com"},{label:"C++", the_link:"http://www.ibm.com"},{label:"Fortran", the_link:"http://www.yahoo.com"}];
     $( "#tags" ).autocomplete({
-      source: resources,
-      change: function() {
-	var html = '<span>Search Moline website for <a href="http://moline.il.us/Search?searchPhrase=' + $( "#tags" ).val() + '" target="_blank">' + $( "#tags" ).val() + '</a></span>';
-	$('.ui-widget').append(html);	
-	},	
+      source: resources,	
       select:function(e,ui) { 
       //console.log(ui);    // When you click (select) the ui object is returned , as well as the event
        // You can get at the returned results ( the object via . (dot)  notation )
       // location.href = ui.item.the_link;
 	window.open(ui.item.data, '_blank');
+	$(this).val(''); return false;
       }
     });
+
+$("#tags").on("input propertychange", function () {
+	$( "#spMoline" ).remove();
+    var html = '<span id="spMoline">Search Moline website for <a href="http://moline.il.us/Search?searchPhrase=' + $( "#tags" ).val() + '" target="_blank">' + $( "#tags" ).val() + '</a></span>';
+	$('.ui-widget').append(html);	
 });
 
-$("#tags").bind('keypress',function(){$(this).autocomplete.change});
+});
 
 </script>
 </head>
@@ -52,7 +54,7 @@ ul {list-style: none; padding-left: 0;}
 <h3>Search all resources</h3>
 <div class="ui-widget">
   <!-- <label for="tags">Tags: </label> -->
-  <input id="tags" text="Search all resources" />
+  <input id="tags" class="ui-autocomplete-input" />
 </div>
 </body>
 </html>
