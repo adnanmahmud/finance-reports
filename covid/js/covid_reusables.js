@@ -429,7 +429,7 @@ function line_chart() {
                 {"id":2,  "column":2, "row": 0,"label": "deaths","value":d3.max(d.deaths, m => m.count),"format":","},
                 {"id":3,  "column":3, "row": 0,"label": "death rate","value":d3.max(d.deaths, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"},
                 {"id":4,  "column":4,"row": 0,"label": "recovery rate","value":d3.max(d.recovered, m => m.count)/d3.max(d.confirmed_cases, m => m.count),"format":".1%"},
-                {"id":5,  "column":0,"row": 1,"label": "confirmed cases","value":get_seven_day_count(d),"format":","},
+                {"id":5,  "column":0,"row": 1,"label": "confirmed cases","value":d3.max(d.confirmed_cases, m => m.count) - get_seven_day_count(d),"format":","},
                 {"id":6,  "column":1,"row": 1,"label": "new case every","value":get_newcase_value(d),"format":"none"}
             ]
 
