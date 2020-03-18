@@ -6,11 +6,34 @@
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
   <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
   <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-  <script type="text/javascript" src="data.js"></script>
+  <script type="text/javascript" src="data-moline.js"></script>
   <script>
   $(function() {
    //var availableTags = [{label:"Basic", the_link:"http://www.msn.com"},{label:"C++", the_link:"http://www.ibm.com"},{label:"Fortran", the_link:"http://www.yahoo.com"}];
-    $( "#tags" ).autocomplete({
+
+    $.widget( "custom.catcomplete", $.ui.autocomplete, {
+      _create: function() {
+        this._super();
+        this.widget().menu( "option", "items", "> :not(.ui-autocomplete-category)" );
+      },
+      _renderMenu: function( ul, items ) {
+        var that = this,
+          currentCategory = "";
+        $.each( items, function( index, item ) {
+          var li;
+          if ( item.Source != currentCategory ) {
+            ul.append( "<li class='ui-autocomplete-category'>Source: " + item.Source + "</li>" );
+            currentCategory = item.Source;
+          }
+          li = that._renderItemData( ul, item );
+          if ( item.Source ) {
+            li.attr( "aria-label", item.Source + " : " + item.label );
+          }
+        });
+      }
+    });
+
+    $( "#tags" ).catcomplete({
       source: resources,	
       select: function(e,ui) { 
       //console.log(ui);    // When you click (select) the ui object is returned , as well as the event
@@ -55,6 +78,13 @@ body {
 a {color: #119eb9; text-decoration: none;}
 
 img {padding:0; width: 60px; display: block; margin: 0 auto;}
+
+  .ui-autocomplete-category {
+    font-weight: bold;
+    padding: .2em .4em;
+    margin: .8em 0 .2em;
+    line-height: 1.5;
+  }
 
 </style>
 
