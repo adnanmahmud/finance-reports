@@ -38,41 +38,45 @@ $("#tags").on("input propertychange", function () {
 
 </script>
 </head>
+
 <style>
 body {
     font-family: 'Nunito Sans', sans-serif;
     font-size: 12px;	
 }
 
-ul {list-style: none; margin: 0; padding: 0;}
-li {width: 120px; padding-bottom: 20px;}
+.quick-links {list-style: none; margin: 0; padding: 0;}
+.quick-links li {width: 150px; margin: 0 auto; padding-bottom: 20px; font-size: 1.25em;}
 
-.ui-menu-item {font-size: 12px; padding-bottom: 10px;}
+.ui-menu-item {font-size: 1em; padding-bottom: 10px;}
 
 #tags {color: #cacaca;}
 
 a {color: #119eb9; text-decoration: none;}
 
-img {padding:0; width: 60px; display: block;}
+img {padding:0; width: 60px; display: block; margin: 0 auto;}
 
 </style>
-<body>
 
-<div style="width: 100%;">
+<body>
+<div style="width: 100%; position: relative; text-align: center;">
+<div>
 <h3>Quick Coronavirus Links</h3>
-<ul>
+<div>
+<ul class="quick-links">
 <li><a href="http://richd.org/" target="_blank"><img src="https://www.github.com/adnanmahmud/reports/blob/master/resources-search/img/rchd1.jpg?raw=true" /><span>Rock Island Health Department</span></a></li>
 <li><a href="http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus" target="_blank"><img src="https://www.github.com/adnanmahmud/reports/blob/master/resources-search/img/idph-logo.png?raw=true" /><span>Illinois Health Department</span></a></li>
 <li><img src="https://www.github.com/adnanmahmud/reports/blob/master/resources-search/img/1029px-Seal_of_Illinois.png?raw=true" /><span><b>Governor's Office</b></span><br /><a href="https://www2.illinois.gov/sites/gov/newsroom/Pages/default.aspx" target="_blank">News Conferences</a><br /><a href="https://www2.illinois.gov/government/executive-orders" target="_blank">Executive Orders</a></li>
 <li><a href="http://www.coronavirus.gov" target="_blank"><img src="https://www.github.com/adnanmahmud/reports/blob/master/resources-search/img/cdc.jpg?raw=true" /><span>Coronavirus.gov</span></a></li>
 </ul>
 </div>
-
-<h3>Search all resources</h3>
-<div class="ui-widget" >
-  <!-- <label for="tags">Tags: </label> -->
-  <input id="tags" class="ui-autocomplete-input" value="Type keyword"/>
 </div>
 
+<h3>Search all resources</h3>
+<div class="ui-widget" > 
+<input id="tags" class="ui-autocomplete-input" value="Type keyword"/>
+</div>
+
+</div>
 </body>
 </html>
