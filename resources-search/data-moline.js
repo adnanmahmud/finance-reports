@@ -596,8 +596,8 @@ var resources = [
  },
  {
    "value": "Travelers from China to the United States",
-   "data": " COVID-19",
-   "Source": "https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html"
+   "data": "https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html",
+   "Source": "CDC"
  },
  {
    "value": "Travelers from Countries with Widespread Sustained (Ongoing) Transmission Arriving in the United States",
@@ -633,5 +633,90 @@ var resources = [
    "value": "World Map",
    "data": "https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html",
    "Source": "CDC"
+ },
+ {
+   "value": "AMENDMENT TO EXECUTIVE ORDER 2020-05 IN REPONSE TO COVID-19 (COVID-19 EXECUTIVE ORDER NO. 4) ",
+   "data": "https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-06.pdf",
+   "Source": "Illinois Governor's Office"
+ },
+ {
+   "value": "EXECUTIVE ORDER IN REPONSE TO COVID-19 (COVID-19 EXECUTIVE ORDER NO. 5) ",
+   "data": "https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-07.pdf",
+   "Source": "Illinois Governor's Office"
+ },
+ {
+   "value": "EXECUTIVE ORDER IN REPONSE TO COVID-19 (COVID-19 EXECUTIVE ORDER NO. 6) ",
+   "data": "https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-08.pdf",
+   "Source": "Illinois Governor's Office"
+ },
+ {
+   "value": "EXECUTIVE ORDER IN RESPONSE TO COVID-19 (COVID-19 EXECUTIVE ORDER NO. 2) ",
+   "data": "https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-04.pdf",
+   "Source": "Illinois Governor's Office"
+ },
+ {
+   "value": "EXECUTIVE ORDER IN RESPONSE TO COVID-19 (COVID-19 EXECUTIVE ORDER NO. 3) ",
+   "data": "https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-05.pdf",
+   "Source": "Illinois Governor's Office"
+ },
+ {
+   "value": "EXECUTIVE ORDER TO EXTEND APPLICATION DEADLINE FOR ADULT-USE APPLICATIONS DUE TO COVID-19 ",
+   "data": "https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-03.pdf",
+   "Source": "Illinois Governor's Office"
+ },
+ {
+   "value": "How to Prepare for Coronavirus",
+   "data": "https://www2.illinois.gov/sites/coronavirus/pages/prepare.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Reduce the Likelihood of Getting Coronavirus",
+   "data": "https://www2.illinois.gov/sites/coronavirus/prevention",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Frequently Asked Questions | FAQs",
+   "data": "https://www2.illinois.gov/sites/coronavirus/faq",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention in Your Community",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/community.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention at Home",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/home.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention in Your School",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/School.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention at Work",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/Work.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention in Long Term Care Facilities",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/Long-Term-Care-Facility.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention While Voting",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/Voting.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention in Homeless Shelters",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/Homeless-Shelters.aspx",
+   "Source": "Illinois Department of Public Health"
+ },
+ {
+   "value": "Prevention During Adult Day Programs",
+   "data": "https://www2.illinois.gov/sites/coronavirus/Prevention/Pages/Adult-Day-Programs.aspx",
+   "Source": "Illinois Department of Public Health"
  }
 ];
