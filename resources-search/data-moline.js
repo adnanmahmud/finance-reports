@@ -61,182 +61,7 @@ var resources = [
  },
  {
    "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#content",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-c9995",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-23fd9",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-9d00e",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-d771e",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-93632",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-78cd2",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-d48eb",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-4dc07",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-4d89b",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-0deb3",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-70dc6",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-1276a",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-ba8aa",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
    "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#share-nav",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#az-large",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-9c223",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-f62eb",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-0c5b4",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-7f5b8",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-93548",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-691ee",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-fc701",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-e5bee",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-5130b",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-b18e4",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-66f82",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-nCoV/index.html",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-fe546",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-eb3af",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-9be40",
-   "Source": "CDC"
- },
- {
-   "value": "Coronavirus Disease 2019 (COVID-19)",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/index.html#nav-group-8b1d8",
    "Source": "CDC"
  },
  {
@@ -260,7 +85,7 @@ var resources = [
    "Source": "CDC"
  },
  {
-   "value": "COVID-19 Check and Record Everyday Booklet ƒ?? China",
+   "value": "COVID-19 Check and Record Everyday Booklet China",
    "data": "https://www.cdc.gov/coronavirus/2019-ncov/travelers/care-booklet.html",
    "Source": "CDC"
  },
@@ -710,12 +535,12 @@ var resources = [
    "Source": "CDC"
  },
  {
-   "value": "Strategies for Optimizing the Supply of N95 Respirators: COVID-19",
+   "value": "Conventional Capacity Strategies for Optimizing the Supply of N95 Respirators: COVID-19",
    "data": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/conventional-capacity-strategies.html",
    "Source": "CDC"
  },
  {
-   "value": "Strategies for Optimizing the Supply of N95 Respirators: COVID-19",
+   "value": "Contingencty Capacity Strategies for Optimizing the Supply of N95 Respirators: COVID-19",
    "data": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/contingency-capacity-strategies.html",
    "Source": "CDC"
  },
@@ -727,11 +552,6 @@ var resources = [
  {
    "value": "Symptoms & Testing",
    "data": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/index.html",
-   "Source": "CDC"
- },
- {
-   "value": "Symptoms",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html",
    "Source": "CDC"
  },
  {
@@ -775,9 +595,9 @@ var resources = [
    "Source": "CDC"
  },
  {
-   "value": "Travelers from China to the United States, COVID-19",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html",
-   "Source": "CDC"
+   "value": "Travelers from China to the United States",
+   "data": " COVID-19",
+   "Source": "https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html"
  },
  {
    "value": "Travelers from Countries with Widespread Sustained (Ongoing) Transmission Arriving in the United States",
@@ -802,16 +622,6 @@ var resources = [
  {
    "value": "What To Do if You Are Sick",
    "data": "https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html",
-   "Source": "CDC"
- },
- {
-   "value": "What's New",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/whats-new-all.html",
-   "Source": "CDC"
- },
- {
-   "value": "What's New",
-   "data": "https://www.cdc.gov/coronavirus/2019-ncov/whats-new-all.html",
    "Source": "CDC"
  },
  {

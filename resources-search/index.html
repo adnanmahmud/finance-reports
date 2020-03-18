@@ -4,92 +4,17 @@
   <meta charset="utf-8">
   <title>City of Moline Example</title>
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
   <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
   <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
   <script type="text/javascript" src="data-moline.js"></script>
-  <script>
-  $(function() {
-   //var availableTags = [{label:"Basic", the_link:"http://www.msn.com"},{label:"C++", the_link:"http://www.ibm.com"},{label:"Fortran", the_link:"http://www.yahoo.com"}];
-
-    $.widget( "custom.catcomplete", $.ui.autocomplete, {
-      _create: function() {
-        this._super();
-        this.widget().menu( "option", "items", "> :not(.ui-autocomplete-category)" );
-      },
-      _renderMenu: function( ul, items ) {
-        var that = this,
-          currentCategory = "";
-        $.each( items, function( index, item ) {
-          var li;
-          if ( item.Source != currentCategory ) {
-            ul.append( "<li class='ui-autocomplete-category'>Source: " + item.Source + "</li>" );
-            currentCategory = item.Source;
-          }
-          li = that._renderItemData( ul, item );
-          if ( item.Source ) {
-            li.attr( "aria-label", item.Source + " : " + item.label );
-          }
-        });
-      }
-    });
-
-    $( "#tags" ).catcomplete({
-      source: resources,	
-      select: function(e,ui) { 
-      //console.log(ui);    // When you click (select) the ui object is returned , as well as the event
-       // You can get at the returned results ( the object via . (dot)  notation )
-      // location.href = ui.item.the_link;
-	window.open(ui.item.data, '_blank');
-	$(this).val(''); 
-	
-	return false;
-      }
-    });
-
-$('#tags').focus(function(){
-        $(this).val('');
-        $(this).keydown();
-    }); 
-
-$("#tags").on("input propertychange", function () {
-	$( "#spMoline" ).remove();
-    var html = '<span id="spMoline">Search Moline website for <a href="http://moline.il.us/Search?searchPhrase=' + $( "#tags" ).val() + '" target="_blank">' + $( "#tags" ).val() + '</a></span>';
-	$('.ui-widget').append(html);	
-});
-
-});
-
-</script>
+  <script type="text/javascript" src="ls-automate.js"></script>
 </head>
 
-<style>
-body {
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 12px;	
-}
-
-.quick-links {list-style: none; margin: 0; padding: 0;}
-.quick-links li {width: 150px; padding-bottom: 20px; font-size: 1.25em;}
-
-.ui-menu-item {font-size: 1em; padding-bottom: 10px;}
-
-#tags {color: #cacaca;}
-
-a {color: #119eb9; text-decoration: none;}
-
-img {padding:0; width: 60px; display: block; margin: 0 auto;}
-
-  .ui-autocomplete-category {
-    font-weight: bold;
-    padding: .2em .4em;
-    margin: .8em 0 .2em;
-    line-height: 1.5;
-  }
-
-</style>
 
 <body>
 <div style="width: 100%; position: relative;">
+<!--
 <div>
 <h3>Quick Coronavirus Links</h3>
 <div>
@@ -103,6 +28,7 @@ img {padding:0; width: 60px; display: block; margin: 0 auto;}
 </div>
 
 <h3>Search all resources</h3>
+-->
 <div class="ui-widget" > 
 <input id="tags" class="ui-autocomplete-input" value="Type keyword"/>
 </div>
