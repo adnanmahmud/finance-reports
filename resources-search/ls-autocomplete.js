@@ -45,4 +45,4 @@ $('#tags').focus(function(){
         $(this).keydown();
     }); 
 
-}).delay(10000);
+});
