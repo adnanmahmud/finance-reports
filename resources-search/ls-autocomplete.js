@@ -76,7 +76,7 @@ $(function() {
           }
         });
 	ul.append( '<li class="ui-menu-item"></li>' );
-	ul.append( '<li class="ui-menu-item" aria-label="Search Moline website" id="website-url"><a href="http://moline.il.us/Search?searchPhrase=' + $( '#tags' ).val() + '" target="_blank">Search Moline website for "' + $( "#tags" ).val() + '"</li>' );
+	ul.append( '<li class="ui-menu-item" aria-label="  Search Moline website" id="website-url"><a href="http://moline.il.us/Search?searchPhrase=' + $( '#tags' ).val() + '" target="_blank">Search Moline website for "' + $( "#tags" ).val() + '"</li>' );
       }
     });
 
