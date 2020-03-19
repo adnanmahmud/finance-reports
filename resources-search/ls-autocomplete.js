@@ -48,7 +48,7 @@ $("#tags").on("input propertychange", function () {
 	$('.ui-widget').append(html);	
 });
 
-});
+}).delay(500);
 */
 
 
