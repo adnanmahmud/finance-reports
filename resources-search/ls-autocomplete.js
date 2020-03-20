@@ -1,7 +1,7 @@
 $(document).ready(function(){	
 	var pageUrl = window.location.href;
 	var dataUrl = '';
-	console.log(pageUrl);	
+
 	if (pageUrl.indexOf('search') > -1) {
   		dataUrl = "https://adnanmahmud.github.io/reports/resources-search/data-search.json";
 	} else if (pageUrl.indexOf('moline') > -1) {
@@ -12,7 +12,7 @@ $(document).ready(function(){
 	else {
 	  return false;
 	}
-	console.log(dataUrl);
+
 
 	var arrayReturn = [];
 	$.ajax({
