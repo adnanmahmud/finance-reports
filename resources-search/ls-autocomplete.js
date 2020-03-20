@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 			for (var i = 0, len = data.length; i < len; i++) {
 				var id = (data[i].url).toString();				
-				arrayReturn.push({'value' : data[i].source + ':' + data[i].title, 'data' : id});
+				arrayReturn.push({'value' : data[i].title, 'data' : id, 'source' : data[i].source});
 			}
 			loadSuggestions(arrayReturn);
 			//console.log(countries);
