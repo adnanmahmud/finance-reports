@@ -1,7 +1,22 @@
 $(document).ready(function(){	
+	var pageUrl = window.location.href;
+	var dataUrl = '';
+	
+	if (pageUrl.indexOf('search') > -1) {
+  		dataUrl = "https://adnanmahmud.github.io/reports/resources-search/data-search.json";
+	} else if (pageUrl.indexOf('moline') > -1) {
+  		dataUrl = "https://adnanmahmud.github.io/reports/resources-search/data-moline.json";
+	} else if (pageUrl.indexOf('decatur') > -1) {
+  		dataUrl = "https://adnanmahmud.github.io/reports/resources-search/data-decatur.json";
+	}
+	else {
+	  return false;
+	}
+	console.log(dataUrl);
+
 	var arrayReturn = [];
 	$.ajax({
-		url: "https://adnanmahmud.github.io/reports/resources-search/data-moline.json",
+		url: dataUrl,
 		async: true,
 		dataType: 'json',
 		success: function (data) {
