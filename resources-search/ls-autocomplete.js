@@ -1,5 +1,30 @@
+$(document).ready(function(){	
+	var arrayReturn = [];
+	$.ajax({
+		url: "https://adnanmahmud.github.io/reports/resources-search/data-moline.json",
+		async: true,
+		dataType: 'json',
+		success: function (data) {
 
-$(function() {
+			for (var i = 0, len = data.length; i < len; i++) {
+				var id = (data[i].url).toString();				
+				arrayReturn.push({'value' : data[i].source + ':' + data[i].title, 'data' : id});
+			}
+			loadSuggestions(arrayReturn);
+			//console.log(countries);
+			//console.log(arrayReturn);
+		},
+		error: function(xhr, status, error){
+         		var errorMessage = xhr.status + ': ' + xhr.statusText
+         		alert('Error - ' + errorMessage);
+     		}
+
+	});
+
+});
+ 
+function loadSuggestions(options) {
+
    //var availableTags = [{label:"Basic", the_link:"http://www.msn.com"},{label:"C++", the_link:"http://www.ibm.com"},{label:"Fortran", the_link:"http://www.yahoo.com"}];
 
     $.widget( "custom.catcomplete", $.ui.autocomplete, {
@@ -28,7 +53,8 @@ $(function() {
     });
 
     $( "#tags" ).catcomplete({
-      source: resources,	
+      delay: 0,
+      source: options,	
       select: function(e,ui) { 
       //console.log(ui);    // When you click (select) the ui object is returned , as well as the event
        // You can get at the returned results ( the object via . (dot)  notation )
@@ -45,4 +71,4 @@ $('#tags').focus(function(){
         $(this).keydown();
     }); 
 
-});
+}
