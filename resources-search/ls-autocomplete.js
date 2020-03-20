@@ -35,7 +35,7 @@ function loadSuggestions(options) {
       _renderMenu: function( ul, items ) {
         var that = this,
           currentCategory = "";
-
+console.log(items);
         $.each( items, function( index, item ) {
           var li;
           if ( item.Source != currentCategory ) {
