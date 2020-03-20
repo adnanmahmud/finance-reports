@@ -10,6 +10,7 @@ $(document).ready(function(){
 				var id = (data[i].url).toString();				
 				arrayReturn.push({'value' : data[i].title, 'data' : id, 'source' : data[i].source});
 			}
+console.log(arrayReturn);
 			loadSuggestions(arrayReturn);
 			//console.log(countries);
 			//console.log(arrayReturn);
