@@ -10,7 +10,6 @@ $(document).ready(function(){
 				var id = (data[i].url).toString();				
 				arrayReturn.push({'value' : data[i].title, 'data' : id, 'source' : data[i].source});
 			}
-console.log(arrayReturn);
 			loadSuggestions(arrayReturn);
 			//console.log(countries);
 			//console.log(arrayReturn);
@@ -25,7 +24,7 @@ console.log(arrayReturn);
 });
  
 function loadSuggestions(options) {
-
+console.log(options);
    //var availableTags = [{label:"Basic", the_link:"http://www.msn.com"},{label:"C++", the_link:"http://www.ibm.com"},{label:"Fortran", the_link:"http://www.yahoo.com"}];
 
     $.widget( "custom.catcomplete", $.ui.autocomplete, {
@@ -36,7 +35,7 @@ function loadSuggestions(options) {
       _renderMenu: function( ul, items ) {
         var that = this,
           currentCategory = "";
-console.log(items);
+
         $.each( items, function( index, item ) {
           var li;
           if ( item.Source != currentCategory ) {
