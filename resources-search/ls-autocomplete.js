@@ -24,7 +24,7 @@ $(document).ready(function(){
 });
  
 function loadSuggestions(options) {
-console.log(options);
+
    //var availableTags = [{label:"Basic", the_link:"http://www.msn.com"},{label:"C++", the_link:"http://www.ibm.com"},{label:"Fortran", the_link:"http://www.yahoo.com"}];
 
     $.widget( "custom.catcomplete", $.ui.autocomplete, {
@@ -39,7 +39,7 @@ console.log(options);
         $.each( items, function( index, item ) {
           var li;
           if ( item.Source != currentCategory ) {
-            ul.append( "<li class='ui-autocomplete-category'>Source: " + item.Source + "</li>" );
+            ul.append( "<li class='ui-autocomplete-category'>Source: " + item.source + "</li>" );
             currentCategory = item.Source;
           }
           li = that._renderItemData( ul, item );
