@@ -3,58 +3,15 @@
 <head>
   <meta charset="utf-8">
   <title>City of Moline Example</title>
+  <link rel="stylesheet" type="text/css" href="https://adnanmahmud.github.io/reports/resources-search/style.css">
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
   <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
-  <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-  <script type="text/javascript" src="data-marin.js"></script>
-  <script>
-  $(function() {
-   //var availableTags = [{label:"Basic", the_link:"http://www.msn.com"},{label:"C++", the_link:"http://www.ibm.com"},{label:"Fortran", the_link:"http://www.yahoo.com"}];
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<!-- <script type="text/javascript" src="https://adnanmahmud.github.io/reports/resources-search/data-moline.json"></script> -->
 
-    $.widget( "custom.catcomplete", $.ui.autocomplete, {
-      _create: function() {
-        this._super();
-        this.widget().menu( "option", "items", "> :not(.ui-autocomplete-category)" );
-      },
-      _renderMenu: function( ul, items ) {
-        var that = this,
-          currentCategory = "";
 
-        $.each( items, function( index, item ) {
-          var li;
-          if ( item.Source != currentCategory ) {
-            ul.append( "<li class='ui-autocomplete-category'>Source: " + item.Source + "</li>" );
-            currentCategory = item.Source;
-          }
-          li = that._renderItemData( ul, item );
-          if ( item.Source ) {
-            li.attr( "aria-label", item.Source + " : " + item.label );
-          }
-        });
-	ul.append( '<li class="ui-menu-item"></li>' );
-	ul.append( '<li class="ui-menu-item" aria-label="Search HHS" id="website-url"><a href="https://www.marinhhs.org/search-results?query=' + $( '#tags' ).val() + '" target="_blank">Search Marin HHS website for "' + $( "#tags" ).val() + '"</li>' );
-      }
-    });
-
-    $( "#tags" ).catcomplete({
-      source: resources,	
-      select: function(e,ui) { 
-      //console.log(ui);    // When you click (select) the ui object is returned , as well as the event
-       // You can get at the returned results ( the object via . (dot)  notation )
-      // location.href = ui.item.the_link;
-	window.open(ui.item.data, '_blank');
-	$(this).val(''); 
-	$( "#spMoline" ).remove();
-	return false;
-      }
-    });
-
-$('#tags').focus(function(){
-        $(this).val('');
-        $(this).keydown();
-    }); 
-
-});
+<script type="text/javascript" src="ls-autocomplete.js"></script>
 
 </script>
 </head>
@@ -88,29 +45,17 @@ img {padding:0; width: 60px; display: block; margin: 0 auto;}
     line-height: 1.5;
   }
 
+#tags {width: 400px; font-size: 1.5em;}
+
 </style>
 
 <body>
-<!--
-<div style="width: 100%; position: relative;">
-<div>
-<h2>Quick Coronavirus Links</h2>
-<div>
-<ul class="quick-links">
-<li>Marin County HHS: <a href="https://coronavirus.marinhhs.org/" target="_blank"><span>Main</span></a>  |  <a href="https://coronavirus.marinhhs.org/sites/default/files/Files/Updates%20(English)/covid-19-status-update-3-17-2020.pdf" target="_blank"><span>Latest status</span></a></li>
-<li>California: <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx" target="_blank"><span>Health Department</span></a>  |  <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Guidance.aspx" target="_blank"><span>Guidances</span></a>  |  <a href="https://www.gov.ca.gov/newsroom/" target="_blank"><span>Latest orders</span></a></li>
-<li>CDC: <a href="http://www.coronavirus.gov" target="_blank"><span>Coronavirus.gov</span></a></li>
-</ul>
-</div>
-</div>
 
-<h2>Search our resource library</h2>
--->
-
-<div class="ui-widget" > 
-<input id="tags" class="ui-autocomplete-input" value="Type keyword"/>
+<div class="ui-widget" style="text-align: center;" > 
+<input id="tags" class="ui-autocomplete-input" value="Type keyword" />
+<br />
+<p style="font-size: 1.0em; color: #cecece;">Examples: symptom, executive order, cases, workplace, house</p>
 </div>
-
 </div>
 </body>
 </html>

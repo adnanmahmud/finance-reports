@@ -35,16 +35,15 @@ function loadSuggestions(options) {
       _renderMenu: function( ul, items ) {
         var that = this,
           currentCategory = "";
-
         $.each( items, function( index, item ) {
           var li;
-          if ( item.Source != currentCategory ) {
+          if ( item.source != currentCategory ) {
             ul.append( "<li class='ui-autocomplete-category'>Source: " + item.source + "</li>" );
-            currentCategory = item.Source;
+            currentCategory = item.source;
           }
           li = that._renderItemData( ul, item );
           if ( item.Source ) {
-            li.attr( "aria-label", item.Source + " : " + item.label );
+            li.attr( "aria-label", item.source + " : " + item.label );
           }
         });
 	ul.append( '<li class="ui-menu-item"></li>' );
