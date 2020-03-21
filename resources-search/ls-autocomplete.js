@@ -1,7 +1,22 @@
 $(document).ready(function(){	
+	var pageUrl = window.location.href;
+	var dataUrl = '';
+
+	if (pageUrl.indexOf('search') > -1) {
+  		dataUrl = "https://adnanmahmud.github.io/reports/resources-search/data-search.json";
+	} else if (pageUrl.indexOf('moline') > -1) {
+  		dataUrl = "https://adnanmahmud.github.io/reports/resources-search/data-moline.json";
+	} else if (pageUrl.indexOf('decatur') > -1) {
+  		dataUrl = "https://adnanmahmud.github.io/reports/resources-search/data-decatur.json";
+	}
+	else {
+	  return false;
+	}
+
+
 	var arrayReturn = [];
 	$.ajax({
-		url: "https://adnanmahmud.github.io/reports/resources-search/data-moline.json",
+		url: dataUrl,
 		async: true,
 		dataType: 'json',
 		success: function (data) {
@@ -35,16 +50,15 @@ function loadSuggestions(options) {
       _renderMenu: function( ul, items ) {
         var that = this,
           currentCategory = "";
-
         $.each( items, function( index, item ) {
           var li;
-          if ( item.Source != currentCategory ) {
+          if ( item.source != currentCategory ) {
             ul.append( "<li class='ui-autocomplete-category'>Source: " + item.source + "</li>" );
-            currentCategory = item.Source;
+            currentCategory = item.source;
           }
           li = that._renderItemData( ul, item );
           if ( item.Source ) {
-            li.attr( "aria-label", item.Source + " : " + item.label );
+            li.attr( "aria-label", item.source + " : " + item.label );
           }
         });
 	ul.append( '<li class="ui-menu-item"></li>' );
