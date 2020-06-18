@@ -1,7 +1,7 @@
-Category,Tax Type,May 2020 YTD Actual,May 2019 YTD Actual,Good Trend Direction
-Revenue,Property Tax,562276.38,1151514.8,High
-Revenue,Utility Tax,9257277.12,9396155.43,High
-Revenue,Sales Tax,7479081.42,6928188.8,High
-Expense,Public Safety,9756964.06,9434545.64,Low
-Expense,Utilities,9665702.84,9115415.01,Low
-Expense,Capital Improvements,2705523.77,1145564.97,Low
+﻿Category,Tax Type,May 2020 YTD Actual,May 2019 YTD Actual,Good Trend Direction
+Revenue,Property Tax,"562,276","1,151,515",High
+Revenue,Utility Tax,9257277.12,"9,396,155",High
+Revenue,Sales Tax,"7,479,081","6,928,189",High
+Expense,Public Safety,"9,756,964","9,434,546",Low
+Expense,Utilities,"9,665,703","9,115,415",Low
+Expense,Capital Improvements,"2,705,524","1,145,565",Low
